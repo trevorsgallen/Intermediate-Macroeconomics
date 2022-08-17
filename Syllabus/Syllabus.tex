@@ -1,0 +1,257 @@
+\documentclass[a4paper]{article}
+\usepackage[margin=1in, paperwidth=5.5in, paperheight=8.5in]{geometry}
+\usepackage{geometry}
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+\usepackage{natbib}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{bibentry}
+
+\usepackage{hyperref}
+\usepackage{hypcap}
+\usepackage{tikz}
+\usepackage{multirow}
+
+\usetikzlibrary{shapes,arrows}
+
+\bibpunct{(}{)}{,}{a}{}{;}
+
+\parindent 0in
+\usepackage{fancyhdr} 
+\pagestyle{fancy} 
+%\bibliographystyle{natbib}
+\bibliographystyle{apalike}
+%\bibliographystyle{aer}
+\fancyhead[RE,RO]{\textsc   Econ 352 Gallen 2018}
+\fancyhead[CE,CO]{\textsc}
+\fancyhead[LE,LO]{\textsc Syllabus}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\title{Econ 352: Intermediate Macroeconomics}
+\author{Trevor Gallen}
+\date{Fall 2022}
+\begin{document}
+%\nobibliography{NumericalMethodsSyllabus}
+
+
+\maketitle
+\emph{Overview of the Class}\\
+The purpose of this class is to give you a rigorous introduction to macroeconomic theory and empirics.  We examine longstanding stylized facts about both long-run growth and short-run fluctuations in macroeconomic aggregates through the focusing lens of theory.  We study determinants of equilibrium in labor, consumption, investment, and money markets in particular.  In doing so, we will also touch on money and banking and financial markets.\\
+
+
+\emph{Outline}\\
+This course lasts sixteen weeks and will teach macroeconomic theory and empirics using Williamson's Macroeconomics. We start with basic Macro measurement you may have seen in Econ 252, then move on to building simple models of households, the macroeconomy, and search and unemployment.  With those basics in hand, we pivot to study economic growth, then money and business cycles.  Time permitting, we will move to international macro.  I encourage you to be engaged in class: to that end, we will make use of HotSeat, which I will discuss more in class on the first day.  I will primarily use slides, which I will post after the lectures.
+\\
+\ \\
+\textbf{Important!}\\
+By the second week of the semester you \emph{must} do the following (by September 3rd)
+\begin{enumerate}
+\item Read this syllabus completely and familiarize yourself with due dates \& test dates.
+\item Let me know if you require an accommodation due to disability, religious holiday, or exam conflict.  Any request after that date is not timely.
+\end{enumerate}
+\ \\
+\emph{Logistics}\\
+This class meets on Tuesdays and Thursdays, 7:30 a.m.-8:45 a.m. at Rawls Hall 3058.  My office hours will be Tuesdays after class, 8:45-9:45.  The TAs for the course are Sayantan Roy (roy175\@purdue.edu) and Indulekha Guha (iguha\@purdue.edu).  Their office hours are TBD.\ \\
+\ \\
+\emph{HotSeat}\\
+This class will use Purdue's hotseat technology (\href{https://www.openhotseat.org/Login?ReturnUrl=https%3a%2f%2fwww.openhotseat.org%2f}{link}, which allows me to poll you and for you to respond in realtime via your iClicker device or your cell phone.   I will give a brief tutorial during the second class, so please attend if you are unfamiliar.   \\
+\ \\
+\emph{Textbook}\\
+The required textbook for this class is Stephen D. Williamson's Intermediate Macro, available through our booksellers or Pearson.  \\
+\ \\
+
+\emph{Formal Requirements}\\
+The formal requirements for this course are seven problem sets, two ``midterm" exams, and a final exam, as well as 
+\begin{itemize}
+\item Seven problem sets (20\%)
+\begin{itemize}
+\item I will take the six highest grades dropping your lowest score of the quarter.
+\item Due at the \emph{beginning} of class.
+\item Turning in after the first five minutes will lose 5\%.
+\item After that, no credit will be given.
+\end{itemize}
+\item Two midterms, (20\% each) taking place on September 18th and October 23rd.  
+\begin{itemize}
+\item The second midterm and final \emph{focus} on material presented since the last test.
+\end{itemize}
+\item The final exam (30\%) will take place on a day TBD by late October.
+\begin{itemize}
+\item Final exam will focus on all material following the second midterm (However, chapters 12-16 use concepts from chapters 7-11!) 
+\end{itemize}
+\item HotSeat responses (5\% total).
+\begin{itemize}
+\item I will be using HotSeat in class to ask you questions in class.  It serves a dual purpose:  to see where the class is, and as a a way to encourage attendance.  Please download the App on your phone.  Anyone caught answering HotSeat while not in attendance will be penalized severely.
+\end{itemize}
+\item Participation (5\% total).
+\begin{itemize}
+\item There are three ways to gain participation credit.
+\begin{enumerate}
+\item First, you can participate in class!  I ask many questions to the class, and it can be dead silent!  People who rescue us all from that silence are duly rewarded.
+\item Second, you may respond to the weekly discussion prompts on Brightspace, respond to the responses of others, or create your own questions.  I strongly encourage you to use Brightspace rather than e-mailing me because Brightspace responses are given a priority, and they are a public good.  Private e-mails will be given no credit, and if they could have been good Brightspace questions, may count against you.
+\item Third, you may (1) file an issue or (2) actually correct, in the base documents, any mistakes on my slides on GitHub.  I post my slides on GitHub (\href{https://github.com/trevorsgallen/Intermediate-Macroeconomics}{link}.  If I mention a typo in class, or if you find one on your own, you may raise it as an issue or even propose a correct to the .tex file itself!  Your participation reward with be commensurate with the additional effort this requires.
+\end{enumerate}
+\end{itemize}
+\end{itemize}
+\ \\
+
+\emph{Academic Integrity}\\
+Academic integrity is one of the highest values that Purdue University holds. Individuals are encouraged to alert university officials to potential breaches of this value by either emailing integrity@purdue.edu or by calling 765-494-8778.  While information may be submitted anonymously, the more information that is submitted provides the greatest opportunity for the university to investigate the concern.  \textbf{Don't cheat.}  While you will always get a zero on the relevant assignment, I reserve the right to fail you for the course.  You should be able to \emph{easily} get a passing grade by working hard.   \\
+\ \\
+As a student choosing to attend Purdue, you have agreed to be bound by the Honors Pledge:  ``As a boilermaker pursuing academic excellence, I pledge to be honest and true in all that I do. Accountable together - we are Purdue."  \\
+
+\clearpage
+\textbf{Free Speech Policy}\\
+This course touches on important concepts in public policy, and deals with topics some of you are unfamiliar with.  As a consequence, being able to speak your mind is crucial.  I can assure you that no matter what you argue for or question in this class, you will not be penalized by me \emph{in any way} for the content of your ideas, even if they are ``unwelcome, disagreeable, or even deeply offensive."  I do require however that your communication be civil, even if your ideas are wild.  With that in mind, please find this course's statement on free speech:\\
+
+In May 2015, Purdue's Board of Trustees \href{https://www.purdue.edu/purdue/about/free-speech.php}{\textcolor{blue}{\underline{embraced the ``Chicago Principles" on free speech}}}.   Perhaps most importantly, they acknowledge that 
+\begin{quote}
+...it is not the proper role of the University to attempt to shield individuals from ideas and  opinions they find unwelcome, disagreeable, or even deeply offensive. Although the University 
+greatly values civility, and although all members of the University community share in the 
+responsibility for maintaining a climate of mutual respect, concerns about civility and mutual respect 
+can never be used as a justification for closing off discussion of ideas, however offensive or 
+disagreeable those ideas may be to some members of our community.
+\end{quote}
+
+This class tries to live up to that statement, and respects the right to free speech of everyone in our community of scholars and learners.  That right of thought, speech, and advocation is sacrosanct in this class and is possessed by faculty and students alike.  With the aim of advancing and deepening everyone's understanding of the issues addressed in the course, students are urged to speak their minds, explore ideas and arguments, play devil's advocate, and engage in civil but robust discussions.  There is no thought or language policing.  We expect students to do business in the proper currency of intellectual discourse-a currency consisting of reasons, evidence, and arguments--but no ideas or positions are out of bounds.  Only statements that impede the legal functioning of the University, such as genuine threats or harassment, false defamation, and so on are prohibited.\\
+\ \\
+
+\emph{Grading}\\
+Your grade will be determined by how you do on your seven problem sets, the midterm(s), the final, and your SELEs/HotSeat responses.  The weights attached to each are given below:\\
+\begin{table}[ht!]
+\centering
+\begin{tabular}{lcl}
+Category & Points & Due Date \\
+\hline
+\textbf{Assignments} (20\%) & 72 points & \\
+$\cdot$ Assignment 1 & 12 points & 8/30\\
+$\cdot$ Assignment 2 & 12 points & 9/13\\
+$\cdot$ Assignment 3 & 12 points & 9/27\\
+$\cdot$ Assignment 4 & 12 points & 10/13\\
+$\cdot$ Assignment 5 & 12 points & 11/1\\
+$\cdot$ Assignment 6 & 12 points & 11/15\\
+$\cdot$ Assignment 7 & 12 points & 12/6\\
+\hline
+\textbf{Midterm Exam I } (20\%) & 72 points & 9/22\\
+\hline
+\textbf{Midterm Exam II} (20\%) & 72 points & 10/27\\
+\hline
+\textbf{Final Exam} (30\%) & 108 points & TBD\\
+\hline
+\textbf{HotSeat} (5\%) & 36 points & Ongoing\\
+\hline
+\textbf{Participation} (5\%) & 18 points & Ongoing\\
+\end{tabular}
+\end{table}
+
+
+\clearpage
+\emph{Tentative Schedule}\\
+Please note: the topics section of this may drift from day to day or week to week.  The dates on this syllabus are not formatted for Fall 2021, but give an idea of the pace of the course.  I will make adjustments and update the syllabus and the website text surrounding it.  This is therefore a \emph{tentative} schedule and updates on timing will be noted on Blackboard and updated in the syllabus posted online.\\
+
+
+\begin{table}[ht!]
+\centering
+\begin{tabular}{llll}
+\multicolumn{4}{c}{Tentative Schedule}\\
+\hline\hline
+ Date & Topic & Reading & Other \\
+\hline
+Aug. 23 & Introduction & Ch. 1 &  \\
+Aug. 25 & Measurement & Ch 2 &  \\
+Aug. 30 & Business Cycle Measurement  & Ch. 3 & Assignment 1 \\
+Sep. 1 & Consumer and Firm Behavior & Ch. 4 &  \\
+Sep. 6 &  &  &  \\
+Sep. 8 & A Closed Economy One-Period Model & Ch. 5 &  \\
+Sep. 13 &  &  & Assignment 2 \\
+Sep. 15 & Search \& Unemployment & Ch. 6 &  \\
+Sep. 20 &  &  &  \\
+\sout{Sep. 22} & NO CLASS, EVENING MIDTERM & & Midterm 1, 8:00-9:30 PM, ARMS B061, \\
+Sep. 22 & Economic Growth & Ch. 7  &  \\
+Sep. 27 &  &  &  Assignment 3\\
+Sep. 29 & Income Disparities among Countries & Ch. 8 &  \\
+Oct. 4 &  &  &  \\
+Oct. 6 & A Two-Periods: Consumption/Savings/Credit & Ch. 9\\
+\sout{Oct. 11} & NO CLASS: October Break &  &  \\
+Oct. 13 &  &  &  Assignment 4\\
+Oct. 18 &  &  &  \\
+Oct. 20 & Credit Market Imperfections &  & Ch. 10 \\
+Oct. 25 &  &  &  \\
+\sout{Oct. 27} & NO CLASS, EVENING MIDTERM & & Midterm 1, 8:00-9:30 PM, ARMS B061, \\
+Nov. 1 & A Real Intertemporal Model & Ch 11 &  \\
+Nov. 3 &  &  & Assignment 5 \\
+Nov. 8 &  &  &  \\
+Nov. 10 & Money, Banking, and Monetary Policy & Ch. 12 &  \\
+Nov. 15 &  &  &  Assignment 6\\
+Nov. 17 & Business Cycles w/Flexible Prices  & Ch. 13 &  \\
+\sout{Nov. 22} & NO CLASS (makeup for Test)  &  &  \\
+Nov. 29 &  &  &  \\
+Dec. 1 & New Keynesian Model  & Ch. 14 &\\
+Dec. 6 &  &  &  Assignment 7\\
+Dec. 8 & International Trade (time permitting) &  Ch. 15 &\\
+Dec. 12-17 (TBD) & Final Exam &  &  \\
+\end{tabular}
+\end{table}
+
+
+%\sout{Sep. 23} & NO CLASS (makeup for Test 1)  &  &  \\
+%Sep. 28 & Consumption, Savings, and Investment & Ch. 7 &  \\
+%Sep. 30 &  &  &  \\
+%Oct. 5 & Equilibrium Business Cycle & Ch. 8 &  \\
+%Oct. 7 &  &  &  Assignment 3 due\\
+%Oct. 14 &    &   &   \\
+%Oct. 19 & Capital Utilization and Unemployment  & Ch. 9 &  \\
+%Oct. 21 & Demand for Money and the Price Level & Ch. 10 &  \\
+%Oct. 23 & Not a class day &  & Assignment 4 due \\
+%Oct. 26 & Inflation, Money Growth, and Interest Rates & Ch. 11 &  \\
+%Oct. 27 & (Not a class day) & & Midterm 2, 8:00-9:30 PM, ARMS B061\\
+%Oct. 28 & Government Expenditure & Ch. 12 &  \\
+%Nov. 2 &  &  &  Assignment 5 due \\
+%Nov. 4 & Taxes & Ch. 13 &  \\
+%Nov. 9 & Public Debt & Ch. 14 &  \\
+%Nov. 11 & Money and Business Cycles I & Ch. 15 &  Assignment 6 due \\
+%Nov. 16 &  &  &  \\
+%Nov.  18 & Money and Business Cycles II & Ch. 16 &  \\
+%\sout{Nov. 22} &  NO CLASS (makeup for test) &  &  \\
+%Nov. 30 & Bank Runs & Doepke et al.  &  \\
+%Dec. 2 & U.S. Financial Crisis & Bernanke et al.  &  Assignment 7 due\\
+%Dec. 7 &  & &  \\
+
+
+%Week 1a & Course Introduction  & \\
+%Week 1a &  The Macroeconomic Way of Looking at Life & \\
+%Week 1c & Macroeconomic Aggregates\\
+%Week 2a & Macroeconomic Aggregates \\
+%Week 2b & Macroeconomic Aggregates \\
+%Week 2c & Economic Growth: Empirics \\
+%Week 3b & Economic Growth: Theory (Solow)\\
+%Week 4b & Economic Growth: Theory (Convergence) \\
+%Week 4a & Economic Growth: Theory (NCG)\\
+%Week 5a & Fluctuations \\
+%Week 5b & Fluctuations\\
+%Week 6a & MIDTERM 1 \\
+%Week 6b & Money and Prices \\
+%Week 7a & Money and Prices  \\
+%Week 7b & Government Sector  \\
+%Week 8a & Government Sector \\
+%Week 8b & Government Sector \\
+%Week 9a & Money and Business Cycles \\
+%Week 9b & Money and Business Cycles \\
+%Week 10a & Money and Business Cycles \\
+%Week 10b & MIDTERM 2 \\
+%Week 11a & Government Sector: Public Debt \\
+%Week 11b &  Government Sector: Public Debt\\
+%Week 12a & Money and Business Cycles - I \\
+%Week 12b & Money and Business Cycles - II \\
+%Week 13a & Money and Business Cycles - III \\
+%Week 13b & International Macroeconomics \\
+%Week 14a & Money and Banking \\
+%Week 14b & Money and Banking \\
+%Week 15a & The U.S. Financial Crisis \\
+%Week 15b & The U.S. Financial Crisis \\
+%Week 16a & No Class\\
+%Week 16b & No Class
+%FINAL EXAM\end{tabular}
+%\end{table}
+\end{document}

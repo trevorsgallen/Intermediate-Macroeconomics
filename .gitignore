@@ -4,11 +4,17 @@
 !.gitignore
 
 # do not ignore fish dir (needed due to the above bullet point)
-!/Chapter 0 - Course Introduction
+!/Syllabus
+!/Slides/
+!/Slides/Chapter 0 - Course Introduction
 
 # ignore files and sub dirs in the /fish directory
-/Chapter 0 - Course Introduction/*
+#/Syllabus/*
+/Slides/*
 
 # but do not ignore the config.fish file
-#!/Chapter 0 - Course Introduction/
+!/Slides/Chapter 0 - Course Introduction/
+!/Slides/Chapter 0 - Course Introduction/*.pdf
+!/Slides/Chapter 0 - Course Introduction/*.png
 
+!/Syllabus/*.pdf
