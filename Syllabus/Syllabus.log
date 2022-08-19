@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  17 AUG 2022 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  19 AUG 2022 12:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -632,7 +632,7 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
 \l__pdf_internal_box=\box84
 )
-No file Syllabus.aux.
+(./Syllabus.aux)
 \openout1 = `Syllabus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -653,6 +653,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -703,10 +704,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
+ (./Syllabus.out) (./Syllabus.out)
 \@outlinefile=\write4
 \openout4 = `Syllabus.out'.
 
- (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count298
 \scratchdimen=\dimen264
@@ -815,23 +818,17 @@ Overfull \hbox (70.71825pt too wide) in paragraph at lines 156--195
 [4
 
 ] (./Syllabus.aux)
-
-Package rerunfilecheck Warning: File `Syllabus.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Syllabus.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Syllabus.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22096 strings out of 478268
- 440834 string characters out of 5846347
- 741156 words of memory out of 5000000
+ 22102 strings out of 478268
+ 440912 string characters out of 5846347
+ 740250 words of memory out of 5000000
  39940 multiletter control sequences out of 15000+600000
  473690 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,11n,104p,924b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 100i,11n,104p,924b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -841,7 +838,7 @@ r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Syllabus.pdf (4 pages, 113290 bytes).
+Output written on Syllabus.pdf (4 pages, 113434 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
