@@ -7,10 +7,12 @@
 !/Syllabus
 !/Slides/
 !/Slides/Chapter 0 - Course Introduction
+!/Homeworks/
 
 # ignore files and sub dirs in the /fish directory
 #/Syllabus/*
 /Slides/*
+/Homeworks/*
 
 # but do not ignore the config.fish file
 !/Slides/Chapter 0 - Course Introduction/
@@ -49,5 +51,6 @@
 !/Slides/Chapter 5 - A Closed Economy One-Period Macroeconomic Model/*.xlsx
 !/Slides/Chapter 5 - A Closed Economy One-Period Macroeconomic Model/*.nb
 
+!/Homeworks/Homework_1.pdf
 
 !/Syllabus/*.pdf
