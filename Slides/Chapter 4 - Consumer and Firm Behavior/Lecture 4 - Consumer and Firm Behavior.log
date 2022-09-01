@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  17 AUG 2022 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 SEP 2022 05:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,8 +870,7 @@ Package csquotes Info: ... none found.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box101
-)
-No file "Lecture 4 - Consumer and Firm Behavior".aux.
+) (./Lecture 4 - Consumer and Firm Behavior.aux)
 \openout1 = `"Lecture 4 - Consumer and Firm Behavior.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -892,6 +891,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -973,6 +973,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
+ (./Lecture 4 - Consumer and Firm Behavior.out)
+(./Lecture 4 - Consumer and Firm Behavior.out)
 \@outlinefile=\write5
 \openout5 = `"Lecture 4 - Consumer and Firm Behavior.out"'.
 
@@ -1052,8 +1054,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-theorem-dic
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file "Lecture 4 - Consumer and Firm Behavior".nav.
+) (./Lecture 4 - Consumer and Firm Behavior.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 31.
@@ -1087,219 +1088,219 @@ thkerncmss.
 
 ] [5
 
-] [6
-
 ]
-<Figures/W_Fig_4pt1.png, id=53, 349.305pt x 358.33875pt>
+<Figures/W_Fig_4pt1.png, id=48, 349.305pt x 358.33875pt>
 File: Figures/W_Fig_4pt1.png Graphic file (type png)
 <use Figures/W_Fig_4pt1.png>
-Package pdftex.def Info: Figures/W_Fig_4pt1.png  used on input line 123.
+Package pdftex.def Info: Figures/W_Fig_4pt1.png  used on input line 111.
 (pdftex.def)             Requested size: 174.65207pt x 179.16893pt.
- [7
+ [6
 
  <./Figures/W_Fig_4pt1.png>]
-<Figures/W_Fig_4pt2.png, id=63, 359.0678pt x 358.30705pt>
+<Figures/W_Fig_4pt2.png, id=57, 359.0678pt x 358.30705pt>
 File: Figures/W_Fig_4pt2.png Graphic file (type png)
 <use Figures/W_Fig_4pt2.png>
-Package pdftex.def Info: Figures/W_Fig_4pt2.png  used on input line 132.
+Package pdftex.def Info: Figures/W_Fig_4pt2.png  used on input line 120.
 (pdftex.def)             Requested size: 179.53345pt x 179.15308pt.
- [8
+ [7
 
- <./Figures/W_Fig_4pt2.png>] [9
+ <./Figures/W_Fig_4pt2.png>] [8
+
+] [9
 
 ] [10
 
-] [11
-
 ]
-<Figures/W_Fig_4pt3.png, id=88, 441.0323pt x 350.23154pt>
+<Figures/W_Fig_4pt3.png, id=83, 441.0323pt x 350.23154pt>
 File: Figures/W_Fig_4pt3.png Graphic file (type png)
 <use Figures/W_Fig_4pt3.png>
-Package pdftex.def Info: Figures/W_Fig_4pt3.png  used on input line 178.
+Package pdftex.def Info: Figures/W_Fig_4pt3.png  used on input line 166.
 (pdftex.def)             Requested size: 220.51561pt x 175.11534pt.
- [12
+ [11
 
  <./Figures/W_Fig_4pt3.png>]
-<Figures/W_Fig_4pt4.png, id=97, 408.94244pt x 344.6045pt>
+<Figures/W_Fig_4pt4.png, id=92, 408.94244pt x 344.6045pt>
 File: Figures/W_Fig_4pt4.png Graphic file (type png)
 <use Figures/W_Fig_4pt4.png>
-Package pdftex.def Info: Figures/W_Fig_4pt4.png  used on input line 186.
+Package pdftex.def Info: Figures/W_Fig_4pt4.png  used on input line 174.
 (pdftex.def)             Requested size: 204.47072pt x 172.30182pt.
- [13
+ [12
 
- <./Figures/W_Fig_4pt4.png>] [14
+ <./Figures/W_Fig_4pt4.png>]
+[13
 
 ]
-<Figures/W_Fig_4pt5.png, id=110, 362.97404pt x 358.10191pt>
+<Figures/W_Fig_4pt5.png, id=105, 362.97404pt x 358.10191pt>
 File: Figures/W_Fig_4pt5.png Graphic file (type png)
 <use Figures/W_Fig_4pt5.png>
-Package pdftex.def Info: Figures/W_Fig_4pt5.png  used on input line 205.
+Package pdftex.def Info: Figures/W_Fig_4pt5.png  used on input line 193.
 (pdftex.def)             Requested size: 181.48657pt x 179.05052pt.
- [15
+ [14
 
- <./Figures/W_Fig_4pt5.png>] [16
+ <./Figures/W_Fig_4pt5.png>] [15
 
-] [17
+] [16
 
 ]
-<Figures/W_Fig_4pt6.png, id=129, 365.365pt x 358.138pt>
+<Figures/W_Fig_4pt6.png, id=124, 365.365pt x 358.138pt>
 File: Figures/W_Fig_4pt6.png Graphic file (type png)
 <use Figures/W_Fig_4pt6.png>
-Package pdftex.def Info: Figures/W_Fig_4pt6.png  used on input line 243.
+Package pdftex.def Info: Figures/W_Fig_4pt6.png  used on input line 231.
 (pdftex.def)             Requested size: 182.68205pt x 179.06856pt.
- [18
+ [17
 
- <./Figures/W_Fig_4pt6.png>] [19
+ <./Figures/W_Fig_4pt6.png>]
+[18
 
 ]
-<Figures/W_Fig_4pt7.png, id=142, 343.11365pt x 359.32375pt>
+<Figures/W_Fig_4pt7.png, id=136, 343.11365pt x 359.32375pt>
 File: Figures/W_Fig_4pt7.png Graphic file (type png)
 <use Figures/W_Fig_4pt7.png>
-Package pdftex.def Info: Figures/W_Fig_4pt7.png  used on input line 263.
+Package pdftex.def Info: Figures/W_Fig_4pt7.png  used on input line 251.
 (pdftex.def)             Requested size: 171.5564pt x 179.66142pt.
- [20
+ [19
 
- <./Figures/W_Fig_4pt7.png>] [21
+ <./Figures/W_Fig_4pt7.png>] [20
 
 ]
-<Figures/W_Fig_4pt8.png, id=154, 339.012pt x 358.065pt>
+<Figures/W_Fig_4pt8.png, id=149, 339.012pt x 358.065pt>
 File: Figures/W_Fig_4pt8.png Graphic file (type png)
 <use Figures/W_Fig_4pt8.png>
-Package pdftex.def Info: Figures/W_Fig_4pt8.png  used on input line 288.
+Package pdftex.def Info: Figures/W_Fig_4pt8.png  used on input line 276.
 (pdftex.def)             Requested size: 169.50558pt x 179.03206pt.
- [22
+ [21
 
  <./Figures/W_Fig_4pt8.png>]
-[23
+[22
 
 ]
-<Figures/W_Fig_4pt9.png, id=166, 363.6565pt x 355.96819pt>
+<Figures/W_Fig_4pt9.png, id=161, 363.6565pt x 355.96819pt>
 File: Figures/W_Fig_4pt9.png Graphic file (type png)
 <use Figures/W_Fig_4pt9.png>
-Package pdftex.def Info: Figures/W_Fig_4pt9.png  used on input line 312.
+Package pdftex.def Info: Figures/W_Fig_4pt9.png  used on input line 300.
 (pdftex.def)             Requested size: 181.8278pt x 177.98364pt.
- [24
+ [23
 
  <./Figures/W_Fig_4pt9.png>]
-<Figures/W_Fig_4pt10.png, id=173, 385.16624pt x 327.67876pt>
+<Figures/W_Fig_4pt10.png, id=168, 385.16624pt x 327.67876pt>
 File: Figures/W_Fig_4pt10.png Graphic file (type png)
 <use Figures/W_Fig_4pt10.png>
-Package pdftex.def Info: Figures/W_Fig_4pt10.png  used on input line 321.
+Package pdftex.def Info: Figures/W_Fig_4pt10.png  used on input line 309.
 (pdftex.def)             Requested size: 192.58264pt x 163.83897pt.
- [25
+ [24
 
  <./Figures/W_Fig_4pt10.png>]
-Overfull \hbox (3.28883pt too wide) detected at line 339
+Overfull \hbox (3.28883pt too wide) detected at line 327
 \OMS/cmsy/m/n/10.95 L \OT1/cmss/m/n/10.95 = [] [] []
  []
 
 
-Overfull \vbox (7.50534pt too high) detected at line 339
+Overfull \vbox (7.50534pt too high) detected at line 327
+ []
+
+[25
+
+]
+Overfull \vbox (7.07121pt too high) detected at line 344
  []
 
 [26
 
-]
-Overfull \vbox (7.07121pt too high) detected at line 356
- []
-
-[27
+] [27
 
 ] [28
 
-] [29
-
 ]
-<Figures/W_Fig_4pt12.png, id=202, 294.0397pt x 306.79323pt>
+<Figures/W_Fig_4pt12.png, id=197, 294.0397pt x 306.79323pt>
 File: Figures/W_Fig_4pt12.png Graphic file (type png)
 <use Figures/W_Fig_4pt12.png>
-Package pdftex.def Info: Figures/W_Fig_4pt12.png  used on input line 391.
+Package pdftex.def Info: Figures/W_Fig_4pt12.png  used on input line 379.
 (pdftex.def)             Requested size: 147.01949pt x 153.39622pt.
- [30
+ [29
 
  <./Figures/W_Fig_4pt12.png>]
-<Figures/W_Fig_4pt13.png, id=209, 319.54677pt x 326.63206pt>
+<Figures/W_Fig_4pt13.png, id=204, 319.54677pt x 326.63206pt>
 File: Figures/W_Fig_4pt13.png Graphic file (type png)
 <use Figures/W_Fig_4pt13.png>
-Package pdftex.def Info: Figures/W_Fig_4pt13.png  used on input line 399.
+Package pdftex.def Info: Figures/W_Fig_4pt13.png  used on input line 387.
 (pdftex.def)             Requested size: 159.773pt x 163.31563pt.
- [31
+ [30
 
  <./Figures/W_Fig_4pt13.png>]
-<Figures/W_Fig_4pt14.png, id=217, 337.26pt x 340.80264pt>
+<Figures/W_Fig_4pt14.png, id=211, 337.26pt x 340.80264pt>
 File: Figures/W_Fig_4pt14.png Graphic file (type png)
 <use Figures/W_Fig_4pt14.png>
-Package pdftex.def Info: Figures/W_Fig_4pt14.png  used on input line 407.
+Package pdftex.def Info: Figures/W_Fig_4pt14.png  used on input line 395.
 (pdftex.def)             Requested size: 168.62958pt x 170.4009pt.
- [32
+ [31
 
  <./Figures/W_Fig_4pt14.png>]
-<Figures/W_Fig_4pt15.png, id=224, 337.26pt x 333.71735pt>
+<Figures/W_Fig_4pt15.png, id=219, 337.26pt x 333.71735pt>
 File: Figures/W_Fig_4pt15.png Graphic file (type png)
 <use Figures/W_Fig_4pt15.png>
-Package pdftex.def Info: Figures/W_Fig_4pt15.png  used on input line 415.
+Package pdftex.def Info: Figures/W_Fig_4pt15.png  used on input line 403.
 (pdftex.def)             Requested size: 168.62958pt x 166.85826pt.
- [33
+ [32
 
  <./Figures/W_Fig_4pt15.png>]
-<Figures/W_Fig_4pt16.png, id=231, 337.26pt x 350.01353pt>
+<Figures/W_Fig_4pt16.png, id=226, 337.26pt x 350.01353pt>
 File: Figures/W_Fig_4pt16.png Graphic file (type png)
 <use Figures/W_Fig_4pt16.png>
-Package pdftex.def Info: Figures/W_Fig_4pt16.png  used on input line 423.
+Package pdftex.def Info: Figures/W_Fig_4pt16.png  used on input line 411.
 (pdftex.def)             Requested size: 168.62958pt x 175.00633pt.
- [34
+ [33
 
  <./Figures/W_Fig_4pt16.png>]
-<Figures/W_Fig_4pt17.png, id=238, 335.13441pt x 340.80264pt>
+<Figures/W_Fig_4pt17.png, id=233, 335.13441pt x 340.80264pt>
 File: Figures/W_Fig_4pt17.png Graphic file (type png)
 <use Figures/W_Fig_4pt17.png>
-Package pdftex.def Info: Figures/W_Fig_4pt17.png  used on input line 431.
+Package pdftex.def Info: Figures/W_Fig_4pt17.png  used on input line 419.
 (pdftex.def)             Requested size: 167.56679pt x 170.4009pt.
- [35
+ [34
 
- <./Figures/W_Fig_4pt17.png>] [36
+ <./Figures/W_Fig_4pt17.png>] [35
 
 ]
-<Figures/W_Fig_4pt19.png, id=250, 372.34761pt x 358.20782pt>
+<Figures/W_Fig_4pt19.png, id=245, 372.34761pt x 358.20782pt>
 File: Figures/W_Fig_4pt19.png Graphic file (type png)
 <use Figures/W_Fig_4pt19.png>
-Package pdftex.def Info: Figures/W_Fig_4pt19.png  used on input line 453.
+Package pdftex.def Info: Figures/W_Fig_4pt19.png  used on input line 441.
 (pdftex.def)             Requested size: 186.17334pt x 179.10347pt.
- [37
+ [36
 
  <./Figures/W_Fig_4pt19.png>]
-<Figures/W_Fig_4pt20.png, id=258, 307.50177pt x 316.00412pt>
+<Figures/W_Fig_4pt20.png, id=252, 307.50177pt x 316.00412pt>
 File: Figures/W_Fig_4pt20.png Graphic file (type png)
 <use Figures/W_Fig_4pt20.png>
-Package pdftex.def Info: Figures/W_Fig_4pt20.png  used on input line 462.
+Package pdftex.def Info: Figures/W_Fig_4pt20.png  used on input line 450.
 (pdftex.def)             Requested size: 153.7505pt x 158.00166pt.
- [38
+ [37
 
  <./Figures/W_Fig_4pt20.png>]
-Overfull \hbox (18.87401pt too wide) detected at line 478
+Overfull \hbox (18.87401pt too wide) detected at line 466
 \OT1/mathkerncmss/m/sl/10.95 z[] \OT1/cmss/m/n/10.95 = [] = [] = \OT1/mathkernc
 mss/m/sl/10.95 z[]
  []
 
-[39
+[38
 
 ]
-<Figures/W_Fig_4pt18.png, id=270, 438.438pt x 357.9774pt>
+<Figures/W_Fig_4pt18.png, id=265, 438.438pt x 357.9774pt>
 File: Figures/W_Fig_4pt18.png Graphic file (type png)
 <use Figures/W_Fig_4pt18.png>
-Package pdftex.def Info: Figures/W_Fig_4pt18.png  used on input line 486.
+Package pdftex.def Info: Figures/W_Fig_4pt18.png  used on input line 474.
 (pdftex.def)             Requested size: 219.21846pt x 178.98825pt.
- [40
+ [39
 
  <./Figures/W_Fig_4pt18.png>]
-<Figures/Fernald_TFP.png, id=277, 1200.485pt x 873.2625pt>
+<Figures/Fernald_TFP.png, id=272, 1200.485pt x 873.2625pt>
 File: Figures/Fernald_TFP.png Graphic file (type png)
 <use Figures/Fernald_TFP.png>
-Package pdftex.def Info: Figures/Fernald_TFP.png  used on input line 496.
+Package pdftex.def Info: Figures/Fernald_TFP.png  used on input line 484.
 (pdftex.def)             Requested size: 240.09274pt x 174.6494pt.
- [41
+ [40
 
- <./Figures/Fernald_TFP.png>] [42
+ <./Figures/Fernald_TFP.png>] [41
 
 ]
 \tf@nav=\write6
@@ -1313,29 +1314,22 @@ Package pdftex.def Info: Figures/Fernald_TFP.png  used on input line 496.
 
 
 (./Lecture 4 - Consumer and Firm Behavior.aux)
-
-Package rerunfilecheck Warning: File `"Lecture 4 - Consumer and Firm Behavior".
-out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Lecture 4 - Consumer and Firm Beha
-vior".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `"Lecture 4 - Consumer and Firm Behavior".out
+' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27904 strings out of 478268
- 579872 string characters out of 5846347
- 859656 words of memory out of 5000000
- 45454 multiletter control sequences out of 15000+600000
+ 28002 strings out of 478268
+ 581062 string characters out of 5846347
+ 859838 words of memory out of 5000000
+ 45546 multiletter control sequences out of 15000+600000
  484357 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,465b,2221s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,11n,122p,465b,2218s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
@@ -1353,11 +1347,11 @@ ss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
 fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
 .pfb>
-Output written on "Lecture 4 - Consumer and Firm Behavior.pdf" (42 pages, 14641
-22 bytes).
+Output written on "Lecture 4 - Consumer and Firm Behavior.pdf" (41 pages, 14628
+27 bytes).
 PDF statistics:
- 381 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 250 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 500000)
  143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
