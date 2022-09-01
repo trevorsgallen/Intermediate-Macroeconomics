@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 SEP 2022 06:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 SEP 2022 08:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1217,7 +1217,7 @@ Overfull \vbox (7.07121pt too high) detected at line 348
 <Figures/W_Fig_4pt12.png, id=197, 294.0397pt x 306.79323pt>
 File: Figures/W_Fig_4pt12.png Graphic file (type png)
 <use Figures/W_Fig_4pt12.png>
-Package pdftex.def Info: Figures/W_Fig_4pt12.png  used on input line 383.
+Package pdftex.def Info: Figures/W_Fig_4pt12.png  used on input line 384.
 (pdftex.def)             Requested size: 147.01949pt x 153.39622pt.
  [29
 
@@ -1225,7 +1225,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt12.png  used on input line 383.
 <Figures/W_Fig_4pt13.png, id=204, 319.54677pt x 326.63206pt>
 File: Figures/W_Fig_4pt13.png Graphic file (type png)
 <use Figures/W_Fig_4pt13.png>
-Package pdftex.def Info: Figures/W_Fig_4pt13.png  used on input line 391.
+Package pdftex.def Info: Figures/W_Fig_4pt13.png  used on input line 393.
 (pdftex.def)             Requested size: 159.773pt x 163.31563pt.
  [30
 
@@ -1233,7 +1233,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt13.png  used on input line 391.
 <Figures/W_Fig_4pt14.png, id=211, 337.26pt x 340.80264pt>
 File: Figures/W_Fig_4pt14.png Graphic file (type png)
 <use Figures/W_Fig_4pt14.png>
-Package pdftex.def Info: Figures/W_Fig_4pt14.png  used on input line 399.
+Package pdftex.def Info: Figures/W_Fig_4pt14.png  used on input line 402.
 (pdftex.def)             Requested size: 168.62958pt x 170.4009pt.
  [31
 
@@ -1241,7 +1241,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt14.png  used on input line 399.
 <Figures/W_Fig_4pt15.png, id=219, 337.26pt x 333.71735pt>
 File: Figures/W_Fig_4pt15.png Graphic file (type png)
 <use Figures/W_Fig_4pt15.png>
-Package pdftex.def Info: Figures/W_Fig_4pt15.png  used on input line 407.
+Package pdftex.def Info: Figures/W_Fig_4pt15.png  used on input line 411.
 (pdftex.def)             Requested size: 168.62958pt x 166.85826pt.
  [32
 
@@ -1249,7 +1249,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt15.png  used on input line 407.
 <Figures/W_Fig_4pt16.png, id=226, 337.26pt x 350.01353pt>
 File: Figures/W_Fig_4pt16.png Graphic file (type png)
 <use Figures/W_Fig_4pt16.png>
-Package pdftex.def Info: Figures/W_Fig_4pt16.png  used on input line 415.
+Package pdftex.def Info: Figures/W_Fig_4pt16.png  used on input line 419.
 (pdftex.def)             Requested size: 168.62958pt x 175.00633pt.
  [33
 
@@ -1257,7 +1257,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt16.png  used on input line 415.
 <Figures/W_Fig_4pt17.png, id=233, 335.13441pt x 340.80264pt>
 File: Figures/W_Fig_4pt17.png Graphic file (type png)
 <use Figures/W_Fig_4pt17.png>
-Package pdftex.def Info: Figures/W_Fig_4pt17.png  used on input line 423.
+Package pdftex.def Info: Figures/W_Fig_4pt17.png  used on input line 427.
 (pdftex.def)             Requested size: 167.56679pt x 170.4009pt.
  [34
 
@@ -1267,7 +1267,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt17.png  used on input line 423.
 <Figures/W_Fig_4pt19.png, id=245, 372.34761pt x 358.20782pt>
 File: Figures/W_Fig_4pt19.png Graphic file (type png)
 <use Figures/W_Fig_4pt19.png>
-Package pdftex.def Info: Figures/W_Fig_4pt19.png  used on input line 445.
+Package pdftex.def Info: Figures/W_Fig_4pt19.png  used on input line 449.
 (pdftex.def)             Requested size: 186.17334pt x 179.10347pt.
  [36
 
@@ -1275,12 +1275,12 @@ Package pdftex.def Info: Figures/W_Fig_4pt19.png  used on input line 445.
 <Figures/W_Fig_4pt20.png, id=252, 307.50177pt x 316.00412pt>
 File: Figures/W_Fig_4pt20.png Graphic file (type png)
 <use Figures/W_Fig_4pt20.png>
-Package pdftex.def Info: Figures/W_Fig_4pt20.png  used on input line 454.
+Package pdftex.def Info: Figures/W_Fig_4pt20.png  used on input line 458.
 (pdftex.def)             Requested size: 153.7505pt x 158.00166pt.
  [37
 
  <./Figures/W_Fig_4pt20.png>]
-Overfull \hbox (18.87401pt too wide) detected at line 470
+Overfull \hbox (18.87401pt too wide) detected at line 474
 \OT1/mathkerncmss/m/sl/10.95 z[] \OT1/cmss/m/n/10.95 = [] = [] = \OT1/mathkernc
 mss/m/sl/10.95 z[]
  []
@@ -1291,7 +1291,7 @@ mss/m/sl/10.95 z[]
 <Figures/W_Fig_4pt18.png, id=265, 438.438pt x 357.9774pt>
 File: Figures/W_Fig_4pt18.png Graphic file (type png)
 <use Figures/W_Fig_4pt18.png>
-Package pdftex.def Info: Figures/W_Fig_4pt18.png  used on input line 478.
+Package pdftex.def Info: Figures/W_Fig_4pt18.png  used on input line 482.
 (pdftex.def)             Requested size: 219.21846pt x 178.98825pt.
  [39
 
@@ -1299,7 +1299,7 @@ Package pdftex.def Info: Figures/W_Fig_4pt18.png  used on input line 478.
 <Figures/Fernald_TFP.png, id=272, 1200.485pt x 873.2625pt>
 File: Figures/Fernald_TFP.png Graphic file (type png)
 <use Figures/Fernald_TFP.png>
-Package pdftex.def Info: Figures/Fernald_TFP.png  used on input line 488.
+Package pdftex.def Info: Figures/Fernald_TFP.png  used on input line 492.
 (pdftex.def)             Requested size: 240.09274pt x 174.6494pt.
  [40
 
@@ -1328,7 +1328,7 @@ Package rerunfilecheck Info: File `"Lecture 4 - Consumer and Firm Behavior".out
 Here is how much of TeX's memory you used:
  28000 strings out of 478268
  581046 string characters out of 5846347
- 859838 words of memory out of 5000000
+ 859839 words of memory out of 5000000
  45544 multiletter control sequences out of 15000+600000
  484357 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1350,8 +1350,8 @@ ss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
 fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
 .pfb>
-Output written on "Lecture 4 - Consumer and Firm Behavior.pdf" (41 pages, 14642
-61 bytes).
+Output written on "Lecture 4 - Consumer and Firm Behavior.pdf" (41 pages, 14645
+76 bytes).
 PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  250 compressed objects within 3 object streams
