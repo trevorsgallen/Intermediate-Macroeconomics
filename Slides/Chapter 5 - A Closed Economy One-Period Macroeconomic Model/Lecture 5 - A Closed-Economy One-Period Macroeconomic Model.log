@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  17 AUG 2022 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  8 SEP 2022 06:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,8 +870,7 @@ Package csquotes Info: ... none found.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box101
-)
-No file "Lecture 5 - A Closed-Economy One-Period Macroeconomic Model".aux.
+) (./Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.aux)
 \openout1 = `"Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.aux"'
 .
 
@@ -893,6 +892,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -974,6 +974,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
+ (./Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.out)
+(./Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.out)
 \@outlinefile=\write5
 \openout5 = `"Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.out"'
 .
@@ -1055,7 +1057,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-No file "Lecture 5 - A Closed-Economy One-Period Macroeconomic Model".nav.
+(./Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 31.
@@ -1353,11 +1355,11 @@ Package pdftex.def Info: Figures/W_Fig_5pt18.png  used on input line 696.
 [52
 
 ]
-<Figures/Laffer.png, id=343, 31.11626pt x 17.06375pt>
+<Figures/Laffer.png, id=343, 361.35pt x 246.9225pt>
 File: Figures/Laffer.png Graphic file (type png)
 <use Figures/Laffer.png>
 Package pdftex.def Info: Figures/Laffer.png  used on input line 719.
-(pdftex.def)             Requested size: 15.55807pt x 8.53185pt.
+(pdftex.def)             Requested size: 180.67456pt x 123.46094pt.
  [53
 
  <./Figures/Laffer.png (PNG copy)>] [54
@@ -1404,29 +1406,22 @@ Package pdftex.def Info: Figures/W_Fig_5pt20.png  used on input line 793.
 
 
 (./Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.aux)
-
-Package rerunfilecheck Warning: File `"Lecture 5 - A Closed-Economy One-Period 
-Macroeconomic Model".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Lecture 5 - A Closed-Economy One-P
-eriod Macroeconomic Model".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `"Lecture 5 - A Closed-Economy One-Period Mac
+roeconomic Model".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27921 strings out of 478268
- 579757 string characters out of 5846347
- 861341 words of memory out of 5000000
- 45437 multiletter control sequences out of 15000+600000
+ 28055 strings out of 478268
+ 581493 string characters out of 5846347
+ 861607 words of memory out of 5000000
+ 45563 multiletter control sequences out of 15000+600000
  482404 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,486b,2150s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,11n,122p,486b,2149s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
@@ -1442,7 +1437,7 @@ y10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb>
 Output written on "Lecture 5 - A Closed-Economy One-Period Macroeconomic Model.
-pdf" (59 pages, 2725256 bytes).
+pdf" (59 pages, 2737902 bytes).
 PDF statistics:
  470 PDF objects out of 1000 (max. 8388607)
  323 compressed objects within 4 object streams
