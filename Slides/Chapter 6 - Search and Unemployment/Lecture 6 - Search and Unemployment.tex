@@ -53,10 +53,6 @@ $$\text{unemployment rate}=\frac{U}{\mathcal{Q}}$$
 $$\text{participation rate}=\frac{U}{\mathcal{N}}$$
 $$\text{employment/population ratio}=\frac{\mathcal{Q}-U}{\mathcal{N}}$$
 \bigskip
-\item This model does not please many, and yields challenges  
-\bigskip
-\item Why is there unemployment?  We'll begin to build a model of \textbf{search frictions} to think about it.
-\bigskip
 \item Let's look at the data first!
 \end{itemize}
 \end{frame}
@@ -65,7 +61,7 @@ $$\text{employment/population ratio}=\frac{\mathcal{Q}-U}{\mathcal{N}}$$
 \frametitle[alignment=center]{Unemployment Rate in the US}Figures
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt1.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt1.png}
 \end{figure}
 Unemployment is countercyclical, and has some long-run trends
 \end{frame}
@@ -74,7 +70,7 @@ Unemployment is countercyclical, and has some long-run trends
 \frametitle[alignment=center]{Deviations from Trend in the US Unemployment Rate}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt2.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt2.png}
 \end{figure}
 Unemployment is clearly countercyclical
 \end{frame}
@@ -83,7 +79,7 @@ Unemployment is clearly countercyclical
 \frametitle[alignment=center]{Labor Force Participation Rate}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt3.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt3.png}
 \end{figure}
 Stark long-run changes in the Labor Force Participation Rate
 \end{frame}
@@ -92,7 +88,7 @@ Stark long-run changes in the Labor Force Participation Rate
 \frametitle[alignment=center]{Labor Force Participation Rates of Men and Women}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt4.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt4.png}
 \end{figure}
 Highly heterogeneous long-run trends by gender!
 \end{frame}
@@ -101,7 +97,7 @@ Highly heterogeneous long-run trends by gender!
 \frametitle[alignment=center]{Percentage Devaitions from Trend in the Labor Force Participation Rate and Real GDP}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt5.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt5.png}
 \end{figure}
 \end{frame}
 
@@ -109,7 +105,7 @@ Highly heterogeneous long-run trends by gender!
 \frametitle[alignment=center]{Labor Force Participation Rate and Employment/Population Ratio}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt6.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt6.png}
 \end{figure}
 Participation rate is procyclical, but much less volatile than real GDP (unlike U)
 \end{frame}
@@ -141,7 +137,7 @@ $$\text{vacancy rate}=\frac{A}{A+\mathcal{Q}-U}$$
 \frametitle[alignment=center]{Vacancy Rate and the Unemployment Rate}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Beverige_Initial.png}
+\includegraphics[scale=0.23]{Figures/Beverige_Initial.png}
 \end{figure}
 Pretty important!  Tight empirical relationship we can really build a science on right?
 \end{frame}
@@ -150,7 +146,7 @@ Pretty important!  Tight empirical relationship we can really build a science on
 \frametitle[alignment=center]{Vacancy Rate and the Unemployment Rate}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt8.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt8.png}
 \end{figure}
 hmm...
 \end{frame}
@@ -160,7 +156,7 @@ hmm...
 \frametitle[alignment=center]{Vacancy Rate and the Unemployment Rate}
 \begin{figure}
 \centering
-\includegraphics[scale=0.25]{Figures/Fig_6pt8_Updated.png}
+\includegraphics[scale=0.23]{Figures/Fig_6pt8_Updated.png}
 \end{figure}
 Ah.
 \end{frame}
@@ -364,7 +360,7 @@ $$p_c=m(1,j)$$
 \item Probability of staying unemployed is now $1-p_c=1-e\cdot m(1,j)$
 \bigskip
 \item So, supply curve of workers:
-$$P\mathcal{Q}=p_cw+(1-p_c)b=b+e\cdot m(1,j)(w-b)$$
+$$P(\mathcal{Q})=p_cw+(1-p_c)b=b+e\cdot m(1,j)(w-b)$$
 \end{itemize}
 \end{frame}
  
@@ -381,15 +377,11 @@ Market wage, UI benefit, and labor market tightness determine the expected payof
 \frametitle[alignment=center]{Demand Side of the Labor Market}
 \begin{itemize}
 \item Now we'll turn to the demand side, which will look similar, but will be simpler
-\bigskip
 \item Probability a firm finds a worker: $p_f=\frac{e\cdot m(\mathcal{Q},A)}{A}=e\cdot m(\frac{1}{j},1)$ using the same trick as before
-\bigskip
 \item If a firm matches with a worker, they get $z$, but pay $w$, so on net keep $z-w$, but also pay the vacancy cost $k$ no matter what
-\bigskip
 \item If firms are free to enter the market, it must be that $\underbrace{p_f}_{\text{pr match}}\underbrace{(z-w)}_{\textbf{payoff if match}}\underbrace{-k}_{\text{vacancy cost}}=0$, the expected payoff is zero 
 $$p_c=m(1,j)$$
 \item Where $j=\frac{A}{\mathcal{Q}}$ is the ``market tightness"
-\bigskip
 \item Putting these two together we get:
 $$e\cdot m\left(\frac{1}{j},1\right)=\frac{k}{z-w}$$
 \item Firms will post vacancies until this is true
