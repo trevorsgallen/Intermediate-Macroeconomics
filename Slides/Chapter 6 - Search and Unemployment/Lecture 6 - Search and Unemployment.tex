@@ -50,7 +50,7 @@
 \bigskip
 \item Let $N$ be the working age population, $\mathcal{Q}$ be the labor force (employed+unemployed), and $U$ be the number of unemployed.  Then we define:
 $$\text{unemployment rate}=\frac{U}{\mathcal{Q}}$$
-$$\text{participation rate}=\frac{U}{\mathcal{N}}$$
+$$\text{participation rate}=\frac{\mathcal{Q}}{\mathcal{N}}$$
 $$\text{employment/population ratio}=\frac{\mathcal{Q}-U}{\mathcal{N}}$$
 \bigskip
 \item Let's look at the data first!
@@ -94,10 +94,10 @@ Highly heterogeneous long-run trends by gender!
 \end{frame}
 
 \begin{frame}
-\frametitle[alignment=center]{Percentage Devaitions from Trend in the Labor Force Participation Rate and Real GDP}
+\frametitle[alignment=center]{Percentage Deviations from Trend in the Labor Force Participation Rate and Real GDP}
 \begin{figure}
 \centering
-\includegraphics[scale=0.23]{Figures/Fig_6pt5.png}
+\includegraphics[scale=0.2]{Figures/Fig_6pt5.png}
 \end{figure}
 \end{frame}
 
@@ -105,7 +105,7 @@ Highly heterogeneous long-run trends by gender!
 \frametitle[alignment=center]{Labor Force Participation Rate and Employment/Population Ratio}
 \begin{figure}
 \centering
-\includegraphics[scale=0.23]{Figures/Fig_6pt6.png}
+\includegraphics[scale=0.20]{Figures/Fig_6pt6.png}
 \end{figure}
 Participation rate is procyclical, but much less volatile than real GDP (unlike U)
 \end{frame}
@@ -242,12 +242,12 @@ When $b$ increases, $V_u$ increases, so reservation wage $w^*$ increases
 \bigskip
 \item  Then flow into unemployment is $s\cdot (1-U)$
 \bigskip
-\item Let $H(w^*)$ be the fraction of unemployed workers who that (a) received a wage offer (w/prob $p$), and also had a wage offer greater than $w^*$ 
+\item Let $H(w^*)$ be the fraction of unemployed workers who (a) received a wage offer (w/prob $p$), and (b) also had a wage offer greater than $w^*$ 
 \bigskip
 \item Then $pH(w^*)U$ is the flow into employment (unemp$\rightarrow$ emp)
 \bigskip
 \item Equilibrium occurs when these two are equal (flows into employment are the same as flows out of unemployment)
-$$s(1-U)=pUH(w^*$$
+$$s(1-U)=pUH(w^*)$$
 \end{itemize}
 \end{frame}
 
@@ -317,7 +317,7 @@ Putting both our previous figures together.  Now let's use this to analyze incre
 \end{itemize}  
 \item Firms
 \begin{itemize}
-\item It costs firms $k$ (in units of consumption goods) to post a vacancy.  If you don't hire, you shut down (this is a one-period model).  $A$ will denote the number of active firms (number that post vacancies)
+\item It costs firms $k$ (in units of consumption goods) to post a vacancy.  If you don't hire, you shut down (this is a one-period, one-job-per-firm model).  $A$ will denote the number of active firms (number that post vacancies)
 \end{itemize}  
 \item Environment:
 \begin{itemize}
@@ -359,7 +359,7 @@ $$p_c=m(1,j)$$
 \bigskip
 \item Probability of staying unemployed is now $1-p_c=1-e\cdot m(1,j)$
 \bigskip
-\item So, supply curve of workers:
+\item In equilibrium, supply curve of workers is expected payoff of searching:
 $$P(\mathcal{Q})=p_cw+(1-p_c)b=b+e\cdot m(1,j)(w-b)$$
 \end{itemize}
 \end{frame}
@@ -380,7 +380,7 @@ Market wage, UI benefit, and labor market tightness determine the expected payof
 \item Probability a firm finds a worker: $p_f=\frac{e\cdot m(\mathcal{Q},A)}{A}=e\cdot m(\frac{1}{j},1)$ using the same trick as before
 \item If a firm matches with a worker, they get $z$, but pay $w$, so on net keep $z-w$, but also pay the vacancy cost $k$ no matter what
 \item If firms are free to enter the market, it must be that $\underbrace{p_f}_{\text{pr match}}\underbrace{(z-w)}_{\textbf{payoff if match}}\underbrace{-k}_{\text{vacancy cost}}=0$, the expected payoff is zero 
-$$p_c=m(1,j)$$
+$$p_f=m\left(\frac{1}{j},1\right)$$
 \item Where $j=\frac{A}{\mathcal{Q}}$ is the ``market tightness"
 \item Putting these two together we get:
 $$e\cdot m\left(\frac{1}{j},1\right)=\frac{k}{z-w}$$
@@ -438,7 +438,7 @@ $$e\cdot m\left(\frac{1}{j},1\right)=\frac{k}{(1-a)(z-b)}$$
 \frametitle[alignment=center]{Equilibrium in the Two-Sided Search Model}
 \begin{figure}
 \centering
-\includegraphics[scale=0.5]{Figures/W_Fig_6pt20.png}
+\includegraphics[scale=0.6]{Figures/W_Fig_6pt20.png}
 \end{figure}
 Demand side determines $j^*$, which then determines $\mathcal{Q}^*$
 \end{frame}
@@ -446,7 +446,7 @@ Demand side determines $j^*$, which then determines $\mathcal{Q}^*$
 \begin{frame}
 \frametitle[alignment=center]{Equilibrium in the Two-Sided Search Model-Continued}
 \begin{itemize}
-\item With market tightness $j^*$ and labor force $\mathcal{Q}$, can determine
+\item With market tightness $j^*$ and labor force $\mathcal{Q}$, can determine everything else
 \bigskip
 \item With $\mathcal{Q}$ we also know not in labor force $N-\mathcal{Q}$, and the unemployment rate:
 $$U=\frac{\mathcal{Q}(1-p_c)}{\mathcal{Q}}=1-e\cdot m(1,j)$$
@@ -481,7 +481,7 @@ $$e\cdot m\left(\frac{1}{j},1\right)=\frac{k}{z-w}$$
 \frametitle[alignment=center]{Equilibrium in the Two-Sided Search Model}
 \begin{figure}
 \centering
-\includegraphics[scale=0.5]{Figures/W_Fig_6pt21.png}
+\includegraphics[scale=0.6]{Figures/W_Fig_6pt21.png}
 \end{figure}
 When $b$ increases, firm search falls, and tightness increases.  Meanwhile, supply shifts out, so that $\mathcal{Q}$ could increase or decrease 
 \end{frame}

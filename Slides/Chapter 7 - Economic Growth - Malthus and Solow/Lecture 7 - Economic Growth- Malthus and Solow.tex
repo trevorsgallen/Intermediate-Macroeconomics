@@ -148,13 +148,11 @@ $$\frac{N'}{N}=g\left(\frac{C}{N}\right)$$
 
 \begin{frame}
 \frametitle[alignment=center]{Malthusian Model of Economic Growth-II}
-$$\frac{N'}{N}=g\left(\frac{zF(L,N)}{N}\right)$$
+$$C=zF(L,N)$$
 \begin{itemize}
 \item Or:
-$$\frac{N'}{N}=g\left(zF(\frac{L}{N},1)\right)$$
-\item But noting that $c=zF(\frac{L}{N},1)$ is per-capita consumption:
-$$\frac{N'}{N}=g\left(c)\right)$$
-\item Population growth is a function of consumption per capita alone
+$$N'=g\left(zF\left(\frac{L}{N},1\right)\right)N$$
+\item Population next period is a concave function of per-capita consumption 
 \end{itemize}
 \end{frame}
 
@@ -185,6 +183,30 @@ $$\frac{F(L,N)}{N}=F\left(\frac{L}{N},1\right)=f(l)$$
 \end{figure}
 Now we can analyze shocks to the model: $z$ and population control
 \end{frame}
+
+\begin{frame}
+\frametitle[alignment=center]{Malthusian Model Equilibrium Intuition}
+\begin{itemize}
+\item What are these equations/this model telling us?
+\bigskip
+\item We assume:
+\smallskip
+\begin{enumerate} 
+\item land is fixed
+\smallskip
+\item  production as a function of labor alone is decreasing returns
+\smallskip
+\item population growth depends on consumption
+\end{enumerate}
+\smallskip
+\item Then if there aren't many people, they're very productive!  Consumption is high, more children, consumption falls, still more children, until consumption falls enough that there is no more growth to the steady state
+\bigskip
+\item Reverse if too many people:  population growth goes negative, people grow more productive, and we converge from above to the steady state
+\bigskip
+\item Now let's analyze what happens with an increase in total factor productivity $(z)$ and how population control would work
+\end{itemize}
+\end{frame}
+
 
 
 
@@ -220,6 +242,10 @@ Now we can analyze shocks to the model: $z$ and population control
 \begin{itemize}
 \item No!  It's truly terrible
 \bigskip
+\begin{itemize}
+\item Aside: people aren't animals!  There is \textbf{no} boom in babies after power-outs, \textbf{no} increase in births due to lockdowns.  Every M.D. or nurse I've ever talked to about this gets this badly wrong! ($N>8$)
+\end{itemize}
+\bigskip
 \item But it's a start on modellng growth
 \bigskip
 \item Main change:  land may be fixed, but capital isn't!  
@@ -250,11 +276,15 @@ Now we can analyze shocks to the model: $z$ and population control
 \begin{frame}
 \frametitle[alignment=center]{Solow Growth Model-Overview}
 \begin{itemize}
-\item $z$ is exogenously increasing (changing)
+\item We need a better model of growth than Malthusian
+\bigskip
+\item What's the name of the game since 1800?  Increasing productivity ($z$)!
+\bigskip
+\item Let's say $z$ is exogenously increasing (changing), human knowledge grows
 \bigskip
 \item Population growth is fixed
 \bigskip
-\item Savings/consumption are just constant fractions of production  
+\item Savings/consumption are just constant fractions of production  (simple assumption)
 \bigskip
 \item Let it rip
 \end{itemize}
@@ -264,27 +294,29 @@ Now we can analyze shocks to the model: $z$ and population control
 \begin{frame}
 \frametitle[alignment=center]{Solow Growth Model-I}
 \begin{itemize}
-\item Population growth:
+\item Assumption 1: Population growth:
 $$N'=(1+n)N$$
-\item $s$ is fraction of product saved, $1-s$ is fraction consumed
+\item Assumption 2: $s$ is (constant) fraction of product saved, $1-s$ is fraction consumed
 $$C=(1-s)Y$$
-\bigskip
-\item Firms face the production function:
+\item Assumption 3: Firms face the production function:
 $$Y=zF(K,N)$$
 \item Or in per-capita terms, because CRS:
 $$y=zf(k)$$
-\item Capital has a law of motion:
-$$K'=(1-\delta)K+I$$\end{itemize}
+\item Assumption 4: Capital has a law of motion:
+$$K'=(1-\delta)K+I$$
+\item Assumption 5:  feasibility/social planner budget constraint:
+$$Y=C+I$$
+\end{itemize}
 \end{frame}
 
 \begin{frame}
 \frametitle[alignment=center]{Solow Growth Model-II}
 \begin{itemize}
-\item What is equilibrium of model?  
+\item \item Now we can solve for growth and the ``steady state" like we did with Malthus.  Start with Assumption 5: 
 $$Y=C+I$$
-\item So, using savings and law of motion of capital:
+\item Solving for $I$ in Assumption 4 and plugging in:
 $$K'=sY+(1-\delta)K$$
-\item Substituting in the production function and dividing by $N$:
+\item Using Assumption 3 and dividing by $N$:
 $$\frac{K'}{N}=sz\frac{F(K,N)}{N}+(1-\delta)\frac{K}{N}$$
 \item Multiplying and dividing by $N'$, we get in per-capita terms:
 $$k'(1+n)=szf(k)+(1-\delta)k$$
@@ -310,6 +342,11 @@ $$k'=\frac{szf(k)}{1+n}+\frac{(1-\delta)k}{1+n}$$
 $$k^*=\frac{szf(^*)}{1+n}+\frac{(1-\delta)^*}{1+n}$$
 \item Or:
 $$szf(k^*)=(n+\delta)k^*$$
+\item With this, we can ask:  what happens to $k^*$ when $n$, $\delta$, $s$, or $z$ increase?
+\bigskip
+\item Also note that $c^*=(1-s)y^*=(1-s)zf(k^*)$, so this also tells us about consumption
+\bigskip
+\item The advantage is this will tell us what could and could not be causing growth!
 \end{itemize}
 \end{frame}
 
@@ -322,16 +359,16 @@ $$szf(k^*)=(n+\delta)k^*$$
 \includegraphics[scale=0.5]{Figures/W_Fig_7pt14.png}
 \end{figure}
 \end{frame}
-'
+
 \begin{frame}
-\frametitle[alignment=center]{Effect of an Increase in Savings on the Steady State Quantity of Capital per Worker}
+\frametitle[alignment=center]{Increase in Savings Increases SS $k^*$}
 \begin{figure}
 \centering
 \includegraphics[scale=0.5]{Figures/W_Fig_7pt15.png}
 \end{figure}
 \end{frame}
 
-'
+
 \begin{frame}
 \frametitle[alignment=center]{Effect of an Increase in the Savings Rate at time T}
 \begin{figure}
@@ -350,12 +387,57 @@ $$szf(k^*)=(n+\delta)k^*$$
 
 
 \begin{frame}
+\frametitle[alignment=center]{Consumption per worker and the Golden Rule Capital Accumulation}
+\begin{itemize}
+\item What is the ``best" choice of savings rate (asterisk!)
+\bigskip
+\item Let's maximize consumption $c$ using $s$:  on one hand, when it increases, more $K$, but less $(1-s)Y$
+\bigskip
+\item Find the maximize
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle[alignment=center]{Golden Rule Capital Accumulation}
+\begin{itemize}
+\item Start with consumption as difference of production minus investment (see previous graph):
+$$c=zf(k^*)-(n+\delta)k^*$$
+\item Where these two are farthest apart is the optimal (consumption-maximizing) level of capital
+\bigskip
+\item That's where their slopes are equal! $\frac{\partial zf(k^*)}{\partial z^*}=\frac{\partial (n+\delta)k^*}{\partial k^*}$
+\bigskip
+\item Or where:
+$$MP_K=n+\delta$$
+\bigskip
+\item Let's plot $s^*zf(k^*)$, $zf(k^*)$ and $(n+\delta)k^*$:  best is when $s^*zf(k^*)$ intersects $(n+\delta)k^*$
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
 \frametitle[alignment=center]{Golden Rule Quantity of Capital per Worker}
 \begin{figure}
 \centering
 \includegraphics[scale=0.5]{Figures/W_Fig_7pt18.png}
 \end{figure}
 \end{frame}
+
+\begin{frame}
+\frametitle[alignment=center]{Labor Force Growth Rate}
+\begin{itemize}
+\item What happens to GDP per capita when the labor force starts growing at a permanently higher rate? $(1+n)\rightarrow(1+n')$ where $n'>n$?
+\bigskip
+\item We can draw it!  
+\bigskip
+\item But also recall we stop growing when $szf(k^*)=(n+\delta)k^*$
+\bigskip
+\item If RHS increases because of $n$, then LHS must increase.  How?
+\bigskip
+\item By decreasing $k^*$!  
+\end{itemize}
+\end{frame}
+
 
 \begin{frame}
 \frametitle[alignment=center]{Steady State Effects of an Increase in Labor Force Growth Rate}
@@ -374,37 +456,37 @@ $$szf(k^*)=(n+\delta)k^*$$
 \end{frame}
 
 
-\begin{frame}
-\frametitle[alignment=center]{Breaking from Trend}
-\begin{figure}
-\centering
-\includegraphics[scale=0.5]{Figures/W_Fig_7pt21.png}
-\end{figure}
-\end{frame}
+%\begin{frame}
+%\frametitle[alignment=center]{Breaking from Trend}
+%\begin{figure}
+%\centering
+%\includegraphics[scale=0.5]{Figures/W_Fig_7pt21.png}
+%\end{figure}
+%\end{frame}
 
-\begin{frame}
-\frametitle[alignment=center]{Breaking from Trend}
-\begin{figure}
-\centering
-\includegraphics[scale=0.5]{Figures/W_Fig_7pt22.png}
-\end{figure}
-\end{frame}
-
-\begin{frame}
-\frametitle[alignment=center]{Breaking from Trend}
-\begin{figure}
-\centering
-\includegraphics[scale=0.5]{Figures/W_Fig_7pt23.png}
-\end{figure}
-\end{frame}
-
-\begin{frame}
-\frametitle[alignment=center]{Growth Accounting}
-\begin{itemize}
-\item Read Williamson 7.7 and complete the updated exercise in the homework.
-\end{itemize}
-\end{frame}
-
+%\begin{frame}
+%\frametitle[alignment=center]{Breaking from Trend}
+%\begin{figure}
+%\centering
+%\includegraphics[scale=0.5]{Figures/W_Fig_7pt22.png}
+%\end{figure}
+%\end{frame}
+%
+%\begin{frame}
+%\frametitle[alignment=center]{Breaking from Trend}
+%\begin{figure}
+%\centering
+%\includegraphics[scale=0.5]{Figures/W_Fig_7pt23.png}
+%\end{figure}
+%\end{frame}
+%
+%\begin{frame}
+%\frametitle[alignment=center]{Growth Accounting}
+%\begin{itemize}
+%\item Read Williamson 7.7 and complete the updated exercise in the homework.
+%\end{itemize}
+%\end{frame}
+%
 
 
 

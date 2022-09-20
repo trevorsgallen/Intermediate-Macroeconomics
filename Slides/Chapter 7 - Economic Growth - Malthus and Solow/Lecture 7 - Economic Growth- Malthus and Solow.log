@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  17 AUG 2022 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  20 SEP 2022 06:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1054,8 +1054,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-theorem-dic
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file "Lecture 7 - Economic Growth- Malthus and Solow".nav.
+) (./Lecture 7 - Economic Growth- Malthus and Solow.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 31.
@@ -1157,184 +1156,210 @@ Package pdftex.def Info: Figures/Fig_7pt3a.png  used on input line 130.
 ] [13
 
 ]
-<Figures/W_Fig_7pt6.png, id=106, 370.986pt x 323.9471pt>
+<Figures/W_Fig_7pt6.png, id=105, 370.986pt x 323.9471pt>
 File: Figures/W_Fig_7pt6.png Graphic file (type png)
 <use Figures/W_Fig_7pt6.png>
-Package pdftex.def Info: Figures/W_Fig_7pt6.png  used on input line 169.
+Package pdftex.def Info: Figures/W_Fig_7pt6.png  used on input line 167.
 (pdftex.def)             Requested size: 185.49254pt x 161.97314pt.
  [14
 
  <./Figures/W_Fig_7pt6.png>]
-<Figures/W_Fig_7pt7.png, id=113, 335.13441pt x 318.83824pt>
+<Figures/W_Fig_7pt7.png, id=112, 335.13441pt x 318.83824pt>
 File: Figures/W_Fig_7pt7.png Graphic file (type png)
 <use Figures/W_Fig_7pt7.png>
-Package pdftex.def Info: Figures/W_Fig_7pt7.png  used on input line 178.
+Package pdftex.def Info: Figures/W_Fig_7pt7.png  used on input line 176.
 (pdftex.def)             Requested size: 167.56679pt x 159.41872pt.
  [15
 
  <./Figures/W_Fig_7pt7.png>]
-<Figures/W_Fig_7pt8.png, id=120, 602.25pt x 298.11375pt>
+<Figures/W_Fig_7pt8.png, id=119, 602.25pt x 298.11375pt>
 File: Figures/W_Fig_7pt8.png Graphic file (type png)
 <use Figures/W_Fig_7pt8.png>
-Package pdftex.def Info: Figures/W_Fig_7pt8.png  used on input line 187.
+Package pdftex.def Info: Figures/W_Fig_7pt8.png  used on input line 185.
 (pdftex.def)             Requested size: 301.12425pt x 149.0565pt.
  [16
 
- <./Figures/W_Fig_7pt8.png>]
-<Figures/W_Fig_7pt9.png, id=127, 590.95781pt x 286.06876pt>
-File: Figures/W_Fig_7pt9.png Graphic file (type png)
-<use Figures/W_Fig_7pt9.png>
-Package pdftex.def Info: Figures/W_Fig_7pt9.png  used on input line 197.
-(pdftex.def)             Requested size: 295.47818pt x 143.03403pt.
- [17
-
- <./Figures/W_Fig_7pt9.png>]
-<Figures/W_Fig_7pt10.png, id=135, 554.82281pt x 292.84406pt>
-File: Figures/W_Fig_7pt10.png Graphic file (type png)
-<use Figures/W_Fig_7pt10.png>
-Package pdftex.def Info: Figures/W_Fig_7pt10.png  used on input line 207.
-(pdftex.def)             Requested size: 277.41072pt x 146.42166pt.
- [18
-
- <./Figures/W_Fig_7pt10.png>]
-<Figures/W_Fig_7pt11.png, id=142, 579.66562pt x 283.81032pt>
-File: Figures/W_Fig_7pt11.png Graphic file (type png)
-<use Figures/W_Fig_7pt11.png>
-Package pdftex.def Info: Figures/W_Fig_7pt11.png  used on input line 215.
-(pdftex.def)             Requested size: 289.83209pt x 141.9048pt.
- [19
-
- <./Figures/W_Fig_7pt11.png>] [20
+ <./Figures/W_Fig_7pt8.png>] [17
 
 ]
-<Figures/PopGrowth_country.png, id=155, 1200.485pt x 873.2625pt>
+<Figures/W_Fig_7pt9.png, id=131, 590.95781pt x 286.06876pt>
+File: Figures/W_Fig_7pt9.png Graphic file (type png)
+<use Figures/W_Fig_7pt9.png>
+Package pdftex.def Info: Figures/W_Fig_7pt9.png  used on input line 219.
+(pdftex.def)             Requested size: 295.47818pt x 143.03403pt.
+ [18
+
+ <./Figures/W_Fig_7pt9.png>]
+<Figures/W_Fig_7pt10.png, id=139, 554.82281pt x 292.84406pt>
+File: Figures/W_Fig_7pt10.png Graphic file (type png)
+<use Figures/W_Fig_7pt10.png>
+Package pdftex.def Info: Figures/W_Fig_7pt10.png  used on input line 229.
+(pdftex.def)             Requested size: 277.41072pt x 146.42166pt.
+
+[19
+
+ <./Figures/W_Fig_7pt10.png>]
+<Figures/W_Fig_7pt11.png, id=147, 579.66562pt x 283.81032pt>
+File: Figures/W_Fig_7pt11.png Graphic file (type png)
+<use Figures/W_Fig_7pt11.png>
+Package pdftex.def Info: Figures/W_Fig_7pt11.png  used on input line 237.
+(pdftex.def)             Requested size: 289.83209pt x 141.9048pt.
+ [20
+
+ <./Figures/W_Fig_7pt11.png>] [21
+
+]
+<Figures/PopGrowth_country.png, id=160, 1200.485pt x 873.2625pt>
 File: Figures/PopGrowth_country.png Graphic file (type png)
 <use Figures/PopGrowth_country.png>
-Package pdftex.def Info: Figures/PopGrowth_country.png  used on input line 239.
+Package pdftex.def Info: Figures/PopGrowth_country.png  used on input line 265.
 
-(pdftex.def)             Requested size: 300.12051pt x 218.31508pt.
- [21
-
- <./Figures/PopGrowth_country.png>]
-<Figures/PopGrowth_region.png, id=162, 1200.485pt x 873.2625pt>
-File: Figures/PopGrowth_region.png Graphic file (type png)
-<use Figures/PopGrowth_region.png>
-Package pdftex.def Info: Figures/PopGrowth_region.png  used on input line 248.
 (pdftex.def)             Requested size: 300.12051pt x 218.31508pt.
  [22
 
- <./Figures/PopGrowth_region.png>] [23
+ <./Figures/PopGrowth_country.png>]
+<Figures/PopGrowth_region.png, id=167, 1200.485pt x 873.2625pt>
+File: Figures/PopGrowth_region.png Graphic file (type png)
+<use Figures/PopGrowth_region.png>
+Package pdftex.def Info: Figures/PopGrowth_region.png  used on input line 274.
+(pdftex.def)             Requested size: 300.12051pt x 218.31508pt.
+ [23
 
-] [24
-
-] [25
+ <./Figures/PopGrowth_region.png>] [24
 
 ]
-<Figures/W_Fig_7pt13.png, id=186, 415.5525pt x 344.18588pt>
-File: Figures/W_Fig_7pt13.png Graphic file (type png)
-<use Figures/W_Fig_7pt13.png>
-Package pdftex.def Info: Figures/W_Fig_7pt13.png  used on input line 304.
-(pdftex.def)             Requested size: 207.77574pt x 172.09251pt.
+Overfull \vbox (0.33946pt too high) detected at line 310
+ []
+
+[25
+
+]
+Overfull \vbox (14.28847pt too high) detected at line 327
+ []
 
 [26
 
- <./Figures/W_Fig_7pt13.png>] [27
+]
+<Figures/W_Fig_7pt13.png, id=191, 415.5525pt x 344.18588pt>
+File: Figures/W_Fig_7pt13.png Graphic file (type png)
+<use Figures/W_Fig_7pt13.png>
+Package pdftex.def Info: Figures/W_Fig_7pt13.png  used on input line 336.
+(pdftex.def)             Requested size: 207.77574pt x 172.09251pt.
+ [27
+
+ <./Figures/W_Fig_7pt13.png>] [28
 
 ]
-<Figures/W_Fig_7pt14.png, id=198, 285.02748pt x 322.17561pt>
+<Figures/W_Fig_7pt14.png, id=203, 285.02748pt x 322.17561pt>
 File: Figures/W_Fig_7pt14.png Graphic file (type png)
 <use Figures/W_Fig_7pt14.png>
-Package pdftex.def Info: Figures/W_Fig_7pt14.png  used on input line 324.
+Package pdftex.def Info: Figures/W_Fig_7pt14.png  used on input line 361.
 (pdftex.def)             Requested size: 142.51338pt x 161.0874pt.
- [28
-
- <./Figures/W_Fig_7pt14.png>]
-<Figures/W_Fig_7pt15.png, id=205, 291.78168pt x 328.92981pt>
-File: Figures/W_Fig_7pt15.png Graphic file (type png)
-<use Figures/W_Fig_7pt15.png>
-Package pdftex.def Info: Figures/W_Fig_7pt15.png  used on input line 332.
-(pdftex.def)             Requested size: 145.89047pt x 164.4645pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [29
 
-]
-[30 <./Figures/W_Fig_7pt15.png>]
+ <./Figures/W_Fig_7pt14.png>]
+<Figures/W_Fig_7pt15.png, id=210, 291.78168pt x 328.92981pt>
+File: Figures/W_Fig_7pt15.png Graphic file (type png)
+<use Figures/W_Fig_7pt15.png>
+Package pdftex.def Info: Figures/W_Fig_7pt15.png  used on input line 369.
+(pdftex.def)             Requested size: 145.89047pt x 164.4645pt.
+
+[30
+
+ <./Figures/W_Fig_7pt15.png>]
 <Figures/W_Fig_7pt16.png, id=217, 441.22737pt x 346.13527pt>
 File: Figures/W_Fig_7pt16.png Graphic file (type png)
 <use Figures/W_Fig_7pt16.png>
-Package pdftex.def Info: Figures/W_Fig_7pt16.png  used on input line 341.
+Package pdftex.def Info: Figures/W_Fig_7pt16.png  used on input line 378.
 (pdftex.def)             Requested size: 220.61314pt x 173.0672pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [31
 
-]
-[32 <./Figures/W_Fig_7pt16.png>]
-<Figures/W_Fig_7pt17.png, id=230, 457.71pt x 349.305pt>
+ <./Figures/W_Fig_7pt16.png>]
+<Figures/W_Fig_7pt17.png, id=225, 457.71pt x 349.305pt>
 File: Figures/W_Fig_7pt17.png Graphic file (type png)
 <use Figures/W_Fig_7pt17.png>
-Package pdftex.def Info: Figures/W_Fig_7pt17.png  used on input line 349.
+Package pdftex.def Info: Figures/W_Fig_7pt17.png  used on input line 386.
 (pdftex.def)             Requested size: 228.85445pt x 174.65207pt.
- [33
+ [32
 
- <./Figures/W_Fig_7pt17.png>]
-<Figures/W_Fig_7pt18.png, id=237, 566.115pt x 254.45062pt>
+ <./Figures/W_Fig_7pt17.png>] [33
+
+] [34
+
+]
+<Figures/W_Fig_7pt18.png, id=245, 566.115pt x 254.45062pt>
 File: Figures/W_Fig_7pt18.png Graphic file (type png)
 <use Figures/W_Fig_7pt18.png>
-Package pdftex.def Info: Figures/W_Fig_7pt18.png  used on input line 358.
+Package pdftex.def Info: Figures/W_Fig_7pt18.png  used on input line 424.
 (pdftex.def)             Requested size: 283.05681pt x 127.22499pt.
- [34
-
- <./Figures/W_Fig_7pt18.png>]
-<Figures/W_Fig_7pt19.png, id=244, 326.93571pt x 353.09058pt>
-File: Figures/W_Fig_7pt19.png Graphic file (type png)
-<use Figures/W_Fig_7pt19.png>
-Package pdftex.def Info: Figures/W_Fig_7pt19.png  used on input line 366.
-(pdftex.def)             Requested size: 163.46745pt x 176.54485pt.
  [35
 
+ <./Figures/W_Fig_7pt18.png>] [36
+
+]
+<Figures/W_Fig_7pt19.png, id=257, 326.93571pt x 353.09058pt>
+File: Figures/W_Fig_7pt19.png Graphic file (type png)
+<use Figures/W_Fig_7pt19.png>
+Package pdftex.def Info: Figures/W_Fig_7pt19.png  used on input line 448.
+(pdftex.def)             Requested size: 163.46745pt x 176.54485pt.
+ [37
+
  <./Figures/W_Fig_7pt19.png>]
-<Figures/W_Fig_7pt20.png, id=251, 337.26pt x 338.76563pt>
+<Figures/W_Fig_7pt20.png, id=265, 337.26pt x 338.76563pt>
 File: Figures/W_Fig_7pt20.png Graphic file (type png)
 <use Figures/W_Fig_7pt20.png>
-Package pdftex.def Info: Figures/W_Fig_7pt20.png  used on input line 374.
+Package pdftex.def Info: Figures/W_Fig_7pt20.png  used on input line 456.
 (pdftex.def)             Requested size: 168.62958pt x 169.38239pt.
- [36
+ [38
 
  <./Figures/W_Fig_7pt20.png>]
+\tf@nav=\write6
+\openout6 = `"Lecture 7 - Economic Growth- Malthus and Solow.nav"'.
 
-LaTeX Warning: File `Figures/W_Fig_7pt21.png' not found on input line 383.
+\tf@toc=\write7
+\openout7 = `"Lecture 7 - Economic Growth- Malthus and Solow.toc"'.
+
+\tf@snm=\write8
+\openout8 = `"Lecture 7 - Economic Growth- Malthus and Solow.snm"'.
 
 
-./Lecture 7 - Economic Growth- Malthus and Solow.tex:383: Package pdftex.def Er
-ror: File `Figures/W_Fig_7pt21.png' not found: using draft setting.
+(./Lecture 7 - Economic Growth- Malthus and Solow.aux)
+Package rerunfilecheck Info: File `"Lecture 7 - Economic Growth- Malthus and So
+low".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ )
+(\end occurred inside a group at level 1)
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.383 \end{frame}
-                 
-? 
-./Lecture 7 - Economic Growth- Malthus and Solow.tex:383: Emergency stop.
- ...                                              
-                                                  
-l.383 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
- 
+### simple group (level 1) entered at line 20 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 27876 strings out of 478268
- 579672 string characters out of 5846347
- 858374 words of memory out of 5000000
- 45427 multiletter control sequences out of 15000+600000
- 480414 words of font info for 68 fonts, out of 8000000 for 9000
+ 27966 strings out of 478268
+ 580579 string characters out of 5846347
+ 859348 words of memory out of 5000000
+ 45519 multiletter control sequences out of 15000+600000
+ 482048 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,473b,2095s stack positions out of 10000i,1000n,20000p,200000b,200000s
-./Lecture 7 - Economic Growth- Malthus and Solow.tex:383:  ==> Fatal error occu
-rred, no output PDF file produced!
+ 128i,11n,122p,473b,2105s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+sbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ssi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on "Lecture 7 - Economic Growth- Malthus and Solow.pdf" (38 page
+s, 2563917 bytes).
+PDF statistics:
+ 352 PDF objects out of 1000 (max. 8388607)
+ 229 compressed objects within 3 object streams
+ 77 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+
