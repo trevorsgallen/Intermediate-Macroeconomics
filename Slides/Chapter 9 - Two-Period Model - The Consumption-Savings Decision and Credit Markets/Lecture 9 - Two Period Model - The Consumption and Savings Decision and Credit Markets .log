@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  28 SEP 2022 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  28 SEP 2022 14:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Lecture 8 - Income Disparity Among Countries and Endogenous Growth.tex"
-(./Lecture 8 - Income Disparity Among Countries and Endogenous Growth.tex
+**"Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .tex"
+
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
@@ -870,9 +873,11 @@ Package csquotes Info: ... none found.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box101
-) (./Lecture 8 - Income Disparity Among Countries and Endogenous Growth.aux)
-\openout1 = `"Lecture 8 - Income Disparity Among Countries and Endogenous Growt
-h.aux"'.
+)
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .aux)
+\openout1 = `"Lecture 9 - Two Period Model - The Consumption and Savings Decisi
+on and Credit Markets .aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -974,11 +979,14 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
- (./Lecture 8 - Income Disparity Among Countries and Endogenous Growth.out) (./
-Lecture 8 - Income Disparity Among Countries and Endogenous Growth.out)
+
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .out)
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .out)
 \@outlinefile=\write5
-\openout5 = `"Lecture 8 - Income Disparity Among Countries and Endogenous Growt
-h.out"'.
+\openout5 = `"Lecture 9 - Two Period Model - The Consumption and Savings Decisi
+on and Credit Markets .out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
@@ -1057,7 +1065,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(./Lecture 8 - Income Disparity Among Countries and Endogenous Growth.nav)
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 31.
@@ -1065,20 +1074,20 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 44.
+ut line 46.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1087,110 +1096,184 @@ thkerncmss.
 
 ] [3
 
-]
-<Figures/W_Fig_8pt1.png, id=37, 375.3222pt x 319.9152pt>
-File: Figures/W_Fig_8pt1.png Graphic file (type png)
-<use Figures/W_Fig_8pt1.png>
-Package pdftex.def Info: Figures/W_Fig_8pt1.png  used on input line 63.
-(pdftex.def)             Requested size: 187.66064pt x 159.9572pt.
- [4
+] [4
 
- <./Figures/W_Fig_8pt1.png>]
-<Figures/W_Fig_8pt2.png, id=46, 304.9794pt x 295.8252pt>
-File: Figures/W_Fig_8pt2.png Graphic file (type png)
-<use Figures/W_Fig_8pt2.png>
-Package pdftex.def Info: Figures/W_Fig_8pt2.png  used on input line 72.
-(pdftex.def)             Requested size: 152.48932pt x 147.91223pt.
- [5
-
- <./Figures/W_Fig_8pt2.png>]
-<Figures/W_Fig_8pt3.png, id=53, 314.1336pt x 304.0158pt>
-File: Figures/W_Fig_8pt3.png Graphic file (type png)
-<use Figures/W_Fig_8pt3.png>
-Package pdftex.def Info: Figures/W_Fig_8pt3.png  used on input line 81.
-(pdftex.def)             Requested size: 157.0664pt x 152.00752pt.
-
-[6
-
- <./Figures/W_Fig_8pt3.png>] [7
+] [5
 
 ]
-<Figures/W_Fig_8pt4.png, id=66, 281.853pt x 301.125pt>
-File: Figures/W_Fig_8pt4.png Graphic file (type png)
-<use Figures/W_Fig_8pt4.png>
-Package pdftex.def Info: Figures/W_Fig_8pt4.png  used on input line 110.
-(pdftex.def)             Requested size: 140.92615pt x 150.56212pt.
- [8
-
- <./Figures/W_Fig_8pt4.png>] [9
-
-] [10
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+99.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [6
 
 ]
-[11
+<Figures/W_Fig_9pt1.png, id=54, 435.34071pt x 357.90857pt>
+File: Figures/W_Fig_9pt1.png Graphic file (type png)
+<use Figures/W_Fig_9pt1.png>
+Package pdftex.def Info: Figures/W_Fig_9pt1.png  used on input line 108.
+(pdftex.def)             Requested size: 217.66982pt x 178.95384pt.
+ [7
+
+ <./Figures/W_Fig_9pt1.png>] [8
 
 ]
-Overfull \vbox (11.9343pt too high) detected at line 176
+<Figures/W_Fig_9pt2.png, id=68, 371.88937pt x 358.33875pt>
+File: Figures/W_Fig_9pt2.png Graphic file (type png)
+<use Figures/W_Fig_9pt2.png>
+Package pdftex.def Info: Figures/W_Fig_9pt2.png  used on input line 130.
+(pdftex.def)             Requested size: 185.94423pt x 179.16893pt.
+ [9
+
+ <./Figures/W_Fig_9pt2.png>]
+<Figures/W_Fig_9pt3.png, id=77, 376.22911pt x 345.05382pt>
+File: Figures/W_Fig_9pt3.png Graphic file (type png)
+<use Figures/W_Fig_9pt3.png>
+Package pdftex.def Info: Figures/W_Fig_9pt3.png  used on input line 139.
+(pdftex.def)             Requested size: 188.11409pt x 172.52647pt.
+
+[10
+
+ <./Figures/W_Fig_9pt3.png>]
+<Figures/W_Fig_9pt4.png, id=84, 373.395pt x 347.17941pt>
+File: Figures/W_Fig_9pt4.png Graphic file (type png)
+<use Figures/W_Fig_9pt4.png>
+Package pdftex.def Info: Figures/W_Fig_9pt4.png  used on input line 148.
+(pdftex.def)             Requested size: 186.69704pt x 173.58928pt.
+ [11
+
+ <./Figures/W_Fig_9pt4.png>]
+<Figures/W_Fig_9pt5.png, id=91, 400.98193pt x 359.0187pt>
+File: Figures/W_Fig_9pt5.png Graphic file (type png)
+<use Figures/W_Fig_9pt5.png>
+Package pdftex.def Info: Figures/W_Fig_9pt5.png  used on input line 158.
+(pdftex.def)             Requested size: 200.49046pt x 179.50891pt.
+
+Overfull \vbox (22.53261pt too high) detected at line 158
  []
 
 [12
 
-]
-<Figures/W_Fig_8pt5.png, id=95, 377.2494pt x 313.17pt>
-File: Figures/W_Fig_8pt5.png Graphic file (type png)
-<use Figures/W_Fig_8pt5.png>
-Package pdftex.def Info: Figures/W_Fig_8pt5.png  used on input line 184.
-(pdftex.def)             Requested size: 188.62424pt x 156.58461pt.
- [13
+ <./Figures/W_Fig_9pt5.png>] [13
 
- <./Figures/W_Fig_8pt5.png>]
-<Figures/W_Fig_8pt6.png, id=103, 317.0244pt x 305.943pt>
-File: Figures/W_Fig_8pt6.png Graphic file (type png)
-<use Figures/W_Fig_8pt6.png>
-Package pdftex.def Info: Figures/W_Fig_8pt6.png  used on input line 193.
-(pdftex.def)             Requested size: 158.51181pt x 152.97112pt.
+]
+<Figures/Fig_9pt6.png, id=104, 1200.485pt x 873.2625pt>
+File: Figures/Fig_9pt6.png Graphic file (type png)
+<use Figures/Fig_9pt6.png>
+Package pdftex.def Info: Figures/Fig_9pt6.png  used on input line 180.
+(pdftex.def)             Requested size: 240.09274pt x 174.6494pt.
  [14
 
- <./Figures/W_Fig_8pt6.png>] [15
+ <./Figures/Fig_9pt6.png>]
+<Figures/Fig_9pt7.png, id=111, 1200.485pt x 873.2625pt>
+File: Figures/Fig_9pt7.png Graphic file (type png)
+<use Figures/Fig_9pt7.png>
+Package pdftex.def Info: Figures/Fig_9pt7.png  used on input line 189.
+(pdftex.def)             Requested size: 240.09274pt x 174.6494pt.
+ [15
+
+ <./Figures/Fig_9pt7.png>] [16
 
 ]
-[16
-
-]
-<Figures/W_Fig_8pt7.png, id=120, 265.9536pt x 289.08pt>
-File: Figures/W_Fig_8pt7.png Graphic file (type png)
-<use Figures/W_Fig_8pt7.png>
-Package pdftex.def Info: Figures/W_Fig_8pt7.png  used on input line 228.
-(pdftex.def)             Requested size: 132.97647pt x 144.53964pt.
+<Figures/W_Fig_9pt8.png, id=123, 420.48pt x 358.065pt>
+File: Figures/W_Fig_9pt8.png Graphic file (type png)
+<use Figures/W_Fig_9pt8.png>
+Package pdftex.def Info: Figures/W_Fig_9pt8.png  used on input line 206.
+(pdftex.def)             Requested size: 210.23947pt x 179.03206pt.
  [17
 
- <./Figures/W_Fig_8pt7.png>] [18
+ <./Figures/W_Fig_9pt8.png>]
+<Figures/W_Fig_9pt9.png, id=130, 357.25925pt x 355.21387pt>
+File: Figures/W_Fig_9pt9.png Graphic file (type png)
+<use Figures/W_Fig_9pt9.png>
+Package pdftex.def Info: Figures/W_Fig_9pt9.png  used on input line 214.
+(pdftex.def)             Requested size: 178.62918pt x 177.60649pt.
+ [18
 
-]
-<Figures/W_Fig_8pt8.png, id=132, 439.4016pt x 357.9774pt>
-File: Figures/W_Fig_8pt8.png Graphic file (type png)
-<use Figures/W_Fig_8pt8.png>
-Package pdftex.def Info: Figures/W_Fig_8pt8.png  used on input line 253.
-(pdftex.def)             Requested size: 219.70026pt x 178.98825pt.
+ <./Figures/W_Fig_9pt9.png>]
+<Figures/W_Fig_9pt12.png, id=137, 409.53pt x 358.138pt>
+File: Figures/W_Fig_9pt12.png Graphic file (type png)
+<use Figures/W_Fig_9pt12.png>
+Package pdftex.def Info: Figures/W_Fig_9pt12.png  used on input line 223.
+(pdftex.def)             Requested size: 204.7645pt x 179.06856pt.
  [19
 
- <./Figures/W_Fig_8pt8.png>]
+ <./Figures/W_Fig_9pt12.png>] [20
+
+]
+<Figures/W_Fig_9pt13.png, id=151, 362.76706pt x 358.5916pt>
+File: Figures/W_Fig_9pt13.png Graphic file (type png)
+<use Figures/W_Fig_9pt13.png>
+Package pdftex.def Info: Figures/W_Fig_9pt13.png  used on input line 250.
+(pdftex.def)             Requested size: 181.38309pt x 179.29536pt.
+ [21
+
+ <./Figures/W_Fig_9pt13.png>]
+<Figures/W_Fig_9pt14.png, id=158, 350.74156pt x 354.72984pt>
+File: Figures/W_Fig_9pt14.png Graphic file (type png)
+<use Figures/W_Fig_9pt14.png>
+Package pdftex.def Info: Figures/W_Fig_9pt14.png  used on input line 259.
+(pdftex.def)             Requested size: 175.37035pt x 177.36449pt.
+
+[22
+
+ <./Figures/W_Fig_9pt14.png>] [23
+
+] [24
+
+] [25
+
+]
+Overfull \vbox (11.30777pt too high) detected at line 318
+ []
+
+[26
+
+]
+<Figures/W_Fig_9pt16.png, id=188, 407.4122pt x 358.941pt>
+File: Figures/W_Fig_9pt16.png Graphic file (type png)
+<use Figures/W_Fig_9pt16.png>
+Package pdftex.def Info: Figures/W_Fig_9pt16.png  used on input line 326.
+(pdftex.def)             Requested size: 203.7056pt x 179.47005pt.
+ [27
+
+ <./Figures/W_Fig_9pt16.png>]
+<Figures/W_Fig_9pt17.png, id=195, 403.34473pt x 357.44351pt>
+File: Figures/W_Fig_9pt17.png Graphic file (type png)
+<use Figures/W_Fig_9pt17.png>
+Package pdftex.def Info: Figures/W_Fig_9pt17.png  used on input line 334.
+(pdftex.def)             Requested size: 201.67186pt x 178.72131pt.
+ [28
+
+ <./Figures/W_Fig_9pt17.png>] [29
+
+]
+<Figures/FedDebt.png, id=207, 638.385pt x 405.1938pt>
+File: Figures/FedDebt.png Graphic file (type png)
+<use Figures/FedDebt.png>
+Package pdftex.def Info: Figures/FedDebt.png  used on input line 357.
+(pdftex.def)             Requested size: 287.27058pt x 182.33553pt.
+
+[30
+
+ <./Figures/FedDebt.png>]
 \tf@nav=\write6
-\openout6 = `"Lecture 8 - Income Disparity Among Countries and Endogenous Growt
-h.nav"'.
+\openout6 = `"Lecture 9 - Two Period Model - The Consumption and Savings Decisi
+on and Credit Markets .nav"'.
 
 \tf@toc=\write7
-\openout7 = `"Lecture 8 - Income Disparity Among Countries and Endogenous Growt
-h.toc"'.
+\openout7 = `"Lecture 9 - Two Period Model - The Consumption and Savings Decisi
+on and Credit Markets .toc"'.
 
 \tf@snm=\write8
-\openout8 = `"Lecture 8 - Income Disparity Among Countries and Endogenous Growt
-h.snm"'.
+\openout8 = `"Lecture 9 - Two Period Model - The Consumption and Savings Decisi
+on and Credit Markets .snm"'.
 
 
-(./Lecture 8 - Income Disparity Among Countries and Endogenous Growth.aux)
-Package rerunfilecheck Info: File `"Lecture 8 - Income Disparity Among Countrie
-s and Endogenous Growth".out' has not changed.
+(./Lecture 9 - Two Period Model - The Consumption and Savings Decision and Cred
+it Markets .aux)
+Package rerunfilecheck Info: File `"Lecture 9 - Two Period Model - The Consumpt
+ion and Savings Decision and Credit Markets ".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
@@ -1198,29 +1281,34 @@ s and Endogenous Growth".out' has not changed.
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27763 strings out of 478268
- 576958 string characters out of 5846347
- 858741 words of memory out of 5000000
- 45369 multiletter control sequences out of 15000+600000
- 482110 words of font info for 74 fonts, out of 8000000 for 9000
+ 27876 strings out of 478268
+ 579941 string characters out of 5846347
+ 862104 words of memory out of 5000000
+ 45452 multiletter control sequences out of 15000+600000
+ 480449 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,493b,2080s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmssi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols
-/msam10.pfb>
-Output written on "Lecture 8 - Income Disparity Among Countries and Endogenous 
-Growth.pdf" (19 pages, 918468 bytes).
+ 128i,11n,122p,514b,2115s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm
+-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+i10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+i8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pf
+b>
+Output written on "Lecture 9 - Two Period Model - The Consumption and Savings D
+ecision and Credit Markets .pdf" (30 pages, 1622631 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
