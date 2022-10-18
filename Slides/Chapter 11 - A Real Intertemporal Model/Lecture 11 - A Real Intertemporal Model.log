@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  13 OCT 2022 07:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  18 OCT 2022 07:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1295,17 +1295,8 @@ Overfull \vbox (9.90732pt too high) detected at line 301
 File: Figures/W_Fig_11pt15.png Graphic file (type png)
 <use Figures/W_Fig_11pt15.png>
 Package pdftex.def Info: Figures/W_Fig_11pt15.png  used on input line 310.
-(pdftex.def)             Requested size: 560.09683pt x 333.0468pt.
-
-Overfull \hbox (252.80696pt too wide) in paragraph at lines 310--310
- [] 
- []
-
-
-Overfull \vbox (149.37369pt too high) detected at line 310
- []
-
-[26
+(pdftex.def)             Requested size: 280.04842pt x 166.52339pt.
+ [26
 
  <./Figures/W_Fig_11pt15.png>] [27
 
@@ -1409,7 +1400,7 @@ Package pdftex.def Info: Figures/W_Fig_11pt27.png  used on input line 534.
 File: Figures/W_Fig_11pt29.png Graphic file (type png)
 <use Figures/W_Fig_11pt29.png>
 Package pdftex.def Info: Figures/W_Fig_11pt29.png  used on input line 558.
-(pdftex.def)             Requested size: 93.95152pt x 169.11276pt.
+(pdftex.def)             Requested size: 104.79156pt x 188.62483pt.
  [46
 
  <./Figures/W_Fig_11pt29.png>] [47
@@ -1467,7 +1458,7 @@ fb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
 .pfb>
 Output written on "Lecture 11 - A Real Intertemporal Model.pdf" (49 pages, 2343
-985 bytes).
+996 bytes).
 PDF statistics:
  401 PDF objects out of 1000 (max. 8388607)
  281 compressed objects within 3 object streams
