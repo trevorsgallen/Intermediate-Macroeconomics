@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  18 OCT 2022 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  25 OCT 2022 07:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1304,61 +1304,102 @@ Overfull \vbox (12.0831pt too high) detected at line 292
 
 [23
 
- <./Figures/W_Fig_12pt10.png>] [24
+ <./Figures/W_Fig_12pt10.png>]
+<Figures/W_Fig_12pt11.png, id=167, 492.3996pt x 316.0608pt>
+File: Figures/W_Fig_12pt11.png Graphic file (type png)
+<use Figures/W_Fig_12pt11.png>
+Package pdftex.def Info: Figures/W_Fig_12pt11.png  used on input line 300.
+(pdftex.def)             Requested size: 320.05594pt x 205.43709pt.
 
-] [25
+Overfull \hbox (12.76607pt too wide) in paragraph at lines 300--300
+ [] 
+ []
+
+[24
+
+ <./Figures/W_Fig_12pt11.png>] [25
+
+] [26
 
 ]
-<Figures/W_Fig_12pt13.png, id=180, 398.4486pt x 335.8146pt>
+<Figures/W_Fig_12pt12.png, id=187, 344.9688pt x 344.9688pt>
+File: Figures/W_Fig_12pt12.png Graphic file (type png)
+<use Figures/W_Fig_12pt12.png>
+Package pdftex.def Info: Figures/W_Fig_12pt12.png  used on input line 329.
+(pdftex.def)             Requested size: 224.22705pt x 224.22705pt.
+
+Overfull \vbox (11.0831pt too high) detected at line 329
+ []
+
+[27
+
+ <./Figures/W_Fig_12pt12.png>]
+<Figures/W_Fig_12pt13.png, id=194, 398.4486pt x 335.8146pt>
 File: Figures/W_Fig_12pt13.png Graphic file (type png)
 <use Figures/W_Fig_12pt13.png>
-Package pdftex.def Info: Figures/W_Fig_12pt13.png  used on input line 321.
+Package pdftex.def Info: Figures/W_Fig_12pt13.png  used on input line 339.
 (pdftex.def)             Requested size: 258.98851pt x 218.2769pt.
 
-Overfull \vbox (7.40378pt too high) detected at line 321
+Overfull \vbox (23.13295pt too high) detected at line 339
  []
 
-[26
+[28
 
- <./Figures/W_Fig_12pt13.png>] [27
+ <./Figures/W_Fig_12pt13.png>] [29
 
-] [28
-
-]
-<Figures/Fig_12pt14.png, id=197, 1224.575pt x 890.32625pt>
-File: Figures/Fig_12pt14.png Graphic file (type png)
-<use Figures/Fig_12pt14.png>
-Package pdftex.def Info: Figures/Fig_12pt14.png  used on input line 358.
-(pdftex.def)             Requested size: 293.904pt x 213.68266pt.
-
-Overfull \vbox (0.53871pt too high) detected at line 358
- []
-
-[29
-
- <./Figures/Fig_12pt14.png>] [30
+] [30
 
 ] [31
 
-] [32
+]
+<Figures/Fig_12pt14.png, id=217, 1224.575pt x 890.32625pt>
+File: Figures/Fig_12pt14.png Graphic file (type png)
+<use Figures/Fig_12pt14.png>
+Package pdftex.def Info: Figures/Fig_12pt14.png  used on input line 391.
+(pdftex.def)             Requested size: 293.904pt x 213.68266pt.
+
+Overfull \vbox (0.53871pt too high) detected at line 391
+ []
+
+[32
+
+ <./Figures/Fig_12pt14.png>] [33
 
 ]
-<Figures/Fig_12pt16a.png, id=220, 1224.575pt x 890.32625pt>
-File: Figures/Fig_12pt16a.png Graphic file (type png)
-<use Figures/Fig_12pt16a.png>
-Package pdftex.def Info: Figures/Fig_12pt16a.png  used on input line 408.
-(pdftex.def)             Requested size: 244.91066pt x 178.06209pt.
- [33
+<Figures/Fredgraph.png, id=229, 1172.38pt x 451.6875pt>
+File: Figures/Fredgraph.png Graphic file (type png)
+<use Figures/Fredgraph.png>
+Package pdftex.def Info: Figures/Fredgraph.png  used on input line 417.
+(pdftex.def)             Requested size: 316.54683pt x 121.95724pt.
 
- <./Figures/Fig_12pt16a.png>]
-<Figures/Fig_12pt16b.png, id=227, 1224.575pt x 890.32625pt>
-File: Figures/Fig_12pt16b.png Graphic file (type png)
-<use Figures/Fig_12pt16b.png>
-Package pdftex.def Info: Figures/Fig_12pt16b.png  used on input line 416.
-(pdftex.def)             Requested size: 244.91066pt x 178.06209pt.
+Overfull \hbox (9.25696pt too wide) in paragraph at lines 417--417
+ [] 
+ []
+
 [34
 
- <./Figures/Fig_12pt16b.png>] [35
+ <./Figures/Fredgraph.png>] [35
+
+] [36
+
+]
+<Figures/Fig_12pt16a.png, id=246, 1224.575pt x 890.32625pt>
+File: Figures/Fig_12pt16a.png Graphic file (type png)
+<use Figures/Fig_12pt16a.png>
+Package pdftex.def Info: Figures/Fig_12pt16a.png  used on input line 450.
+(pdftex.def)             Requested size: 244.91066pt x 178.06209pt.
+ [37
+
+ <./Figures/Fig_12pt16a.png>]
+<Figures/Fig_12pt16b.png, id=254, 1224.575pt x 890.32625pt>
+File: Figures/Fig_12pt16b.png Graphic file (type png)
+<use Figures/Fig_12pt16b.png>
+Package pdftex.def Info: Figures/Fig_12pt16b.png  used on input line 458.
+(pdftex.def)             Requested size: 244.91066pt x 178.06209pt.
+
+[38
+
+ <./Figures/Fig_12pt16b.png>] [39
 
 ]
 \tf@nav=\write6
@@ -1381,13 +1422,13 @@ etary Policy".out' has not changed.
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 26698 strings out of 478994
- 533944 string characters out of 5858183
- 851513 words of memory out of 5000000
- 43535 multiletter control sequences out of 15000+600000
+ 26734 strings out of 478994
+ 534547 string characters out of 5858183
+ 851512 words of memory out of 5000000
+ 43560 multiletter control sequences out of 15000+600000
  414976 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,11n,132p,482b,2012s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,11n,132p,482b,2020s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm
 -super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
@@ -1403,10 +1444,10 @@ pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss109
 5.pfb>
 Output written on "Lecture 12 - Money, Banking, Price, and Monetary Policy.pdf"
- (35 pages, 1808392 bytes).
+ (39 pages, 2075271 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
- 209 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 
