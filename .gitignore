@@ -3,13 +3,13 @@
 # but do not ignore the .gitignore file
 !.gitignore
 
-# do not ignore fish dir (needed due to the above bullet point)
+# do not ignore dirs (needed due to the above bullet point)
 !/Syllabus
 !/Slides/
 !/Slides/Chapter 0 - Course Introduction
 !/Homeworks/
 
-# ignore files and sub dirs in the /fish directory
+# ignore files and sub dirs
 #/Syllabus/*
 /Slides/*
 /Homeworks/*
