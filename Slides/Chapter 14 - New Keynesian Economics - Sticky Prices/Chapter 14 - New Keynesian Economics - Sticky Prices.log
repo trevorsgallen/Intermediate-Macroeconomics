@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  26 OCT 2022 09:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  26 OCT 2022 13:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Chapter 13 - Business Cycle Models with Flexible Prices and Wages.tex"
-(./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.tex
+**"Chapter 14 - New Keynesian Economics - Sticky Prices.tex"
+(./Chapter 14 - New Keynesian Economics - Sticky Prices.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
@@ -870,9 +870,8 @@ Package csquotes Info: ... none found.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box101
-) (./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.aux)
-\openout1 = `"Chapter 13 - Business Cycle Models with Flexible Prices and Wages
-.aux"'.
+) (./Chapter 14 - New Keynesian Economics - Sticky Prices.aux)
+\openout1 = `"Chapter 14 - New Keynesian Economics - Sticky Prices.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
@@ -974,11 +973,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
- (./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.out)
-(./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.out)
+ (./Chapter 14 - New Keynesian Economics - Sticky Prices.out)
+(./Chapter 14 - New Keynesian Economics - Sticky Prices.out)
 \@outlinefile=\write5
-\openout5 = `"Chapter 13 - Business Cycle Models with Flexible Prices and Wages
-.out"'.
+\openout5 = `"Chapter 14 - New Keynesian Economics - Sticky Prices.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
@@ -1057,7 +1055,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.nav)
+(./Chapter 14 - New Keynesian Economics - Sticky Prices.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 (Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 31.
@@ -1065,20 +1063,20 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 44.
+ut line 46.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1087,171 +1085,178 @@ thkerncmss.
 
 ] [3
 
+] [4
+
 ]
-<Figures/W_Fig_13pt1.png, id=39, 435.5472pt x 344.0052pt>
-File: Figures/W_Fig_13pt1.png Graphic file (type png)
-<use Figures/W_Fig_13pt1.png>
-Package pdftex.def Info: Figures/W_Fig_13pt1.png  used on input line 71.
-(pdftex.def)             Requested size: 283.10231pt x 223.60072pt.
-
-Overfull \vbox (12.7276pt too high) detected at line 71
- []
-
-[4
-
- <./Figures/W_Fig_13pt1.png>]
-<Figures/W_Fig_13pt2.png, id=47, 434.5836pt x 317.988pt>
-File: Figures/W_Fig_13pt2.png Graphic file (type png)
-<use Figures/W_Fig_13pt2.png>
-Package pdftex.def Info: Figures/W_Fig_13pt2.png  used on input line 80.
-(pdftex.def)             Requested size: 282.47598pt x 206.68974pt.
+<Figures/W_Fig_14pt1.png, id=41, 379.1766pt x 326.1786pt>
+File: Figures/W_Fig_14pt1.png Graphic file (type png)
+<use Figures/W_Fig_14pt1.png>
+Package pdftex.def Info: Figures/W_Fig_14pt1.png  used on input line 84.
+(pdftex.def)             Requested size: 246.46187pt x 212.01357pt.
  [5
 
- <./Figures/W_Fig_13pt2.png>]
-<Figures/W_Fig_13pt3.png, id=54, 385.44pt x 332.9238pt>
-File: Figures/W_Fig_13pt3.png Graphic file (type png)
-<use Figures/W_Fig_13pt3.png>
-Package pdftex.def Info: Figures/W_Fig_13pt3.png  used on input line 89.
-(pdftex.def)             Requested size: 250.53302pt x 216.39789pt.
- [6
+ <./Figures/W_Fig_14pt1.png>] [6
 
- <./Figures/W_Fig_13pt3.png>] [7
+]
+<Figures/W_Fig_14pt2.png, id=55, 413.3844pt x 328.1058pt>
+File: Figures/W_Fig_14pt2.png Graphic file (type png)
+<use Figures/W_Fig_14pt2.png>
+Package pdftex.def Info: Figures/W_Fig_14pt2.png  used on input line 112.
+(pdftex.def)             Requested size: 248.03255pt x 196.86499pt.
 
-] [8
+Overfull \vbox (1.72104pt too high) detected at line 112
+ []
+
+[7
+
+ <./Figures/W_Fig_14pt2.png>] [8
 
 ] [9
 
 ]
-<Figures/W_Fig_13pt4.png, id=77, 362.3136pt x 313.17pt>
-File: Figures/W_Fig_13pt4.png Graphic file (type png)
-<use Figures/W_Fig_13pt4.png>
-Package pdftex.def Info: Figures/W_Fig_13pt4.png  used on input line 154.
-(pdftex.def)             Requested size: 235.50104pt x 203.55807pt.
- [10
+<Figures/W_Fig_14pt3.png, id=73, 528.5346pt x 297.7524pt>
+File: Figures/W_Fig_14pt3.png Graphic file (type png)
+<use Figures/W_Fig_14pt3.png>
+Package pdftex.def Info: Figures/W_Fig_14pt3.png  used on input line 149.
+(pdftex.def)             Requested size: 343.54343pt x 193.53676pt.
 
- <./Figures/W_Fig_13pt4.png>] [11
-
-] [12
-
-]
-[13
-
-] [14
-
-] [15
-
-]
-<Figures/W_Fig_13pt5.png, id=112, 307.8702pt x 317.988pt>
-File: Figures/W_Fig_13pt5.png Graphic file (type png)
-<use Figures/W_Fig_13pt5.png>
-Package pdftex.def Info: Figures/W_Fig_13pt5.png  used on input line 252.
-(pdftex.def)             Requested size: 200.11325pt x 206.68974pt.
- [16
-
- <./Figures/W_Fig_13pt5.png>]
-<Figures/W_Fig_13pt6.png, id=119, 409.0482pt x 320.8788pt>
-File: Figures/W_Fig_13pt6.png Graphic file (type png)
-<use Figures/W_Fig_13pt6.png>
-Package pdftex.def Info: Figures/W_Fig_13pt6.png  used on input line 260.
-(pdftex.def)             Requested size: 265.87817pt x 208.56874pt.
- [17
-
- <./Figures/W_Fig_13pt6.png>]
-<Figures/W_Fig_13pt7.png, id=126, 385.44pt x 301.125pt>
-File: Figures/W_Fig_13pt7.png Graphic file (type png)
-<use Figures/W_Fig_13pt7.png>
-Package pdftex.def Info: Figures/W_Fig_13pt7.png  used on input line 269.
-(pdftex.def)             Requested size: 250.53302pt x 195.72891pt.
- [18
-
- <./Figures/W_Fig_13pt7.png>]
-<Figures/W_Fig_13pt8.png, id=133, 148.3944pt x 357.9774pt>
-File: Figures/W_Fig_13pt8.png Graphic file (type png)
-<use Figures/W_Fig_13pt8.png>
-Package pdftex.def Info: Figures/W_Fig_13pt8.png  used on input line 280.
-(pdftex.def)             Requested size: 81.61716pt x 196.88817pt.
- [19
-
- <./Figures/W_Fig_13pt8.png>] [20
-
-]
-<Figures/W_Fig_13pt9.png, id=146, 497.86pt x 1104.125pt>
-File: Figures/W_Fig_13pt9.png Graphic file (type png)
-<use Figures/W_Fig_13pt9.png>
-Package pdftex.def Info: Figures/W_Fig_13pt9.png  used on input line 305.
-(pdftex.def)             Requested size: 89.61093pt x 198.73392pt.
-
-[21
-
- <./Figures/W_Fig_13pt9.png>] [22
-
-] [23
-
-]
-<Figures/W_Fig_13pt11.png, id=163, 395.076pt x 308.8338pt>
-File: Figures/W_Fig_13pt11.png Graphic file (type png)
-<use Figures/W_Fig_13pt11.png>
-Package pdftex.def Info: Figures/W_Fig_13pt11.png  used on input line 344.
-(pdftex.def)             Requested size: 256.79636pt x 200.73958pt.
- [24
-
- <./Figures/W_Fig_13pt11.png>]
-[25
-
-]
-<Figures/W_Fig_13pt12.png, id=177, 345.9324pt x 327.1422pt>
-File: Figures/W_Fig_13pt12.png Graphic file (type png)
-<use Figures/W_Fig_13pt12.png>
-Package pdftex.def Info: Figures/W_Fig_13pt12.png  used on input line 361.
-(pdftex.def)             Requested size: 224.8534pt x 212.6399pt.
- [26
-
- <./Figures/W_Fig_13pt12.png>] [27
-
-] [28
-
-]
-<Figures/W_Fig_13pt13.png, id=194, 419.166pt x 341.1144pt>
-File: Figures/W_Fig_13pt13.png Graphic file (type png)
-<use Figures/W_Fig_13pt13.png>
-Package pdftex.def Info: Figures/W_Fig_13pt13.png  used on input line 390.
-(pdftex.def)             Requested size: 272.45467pt x 221.72171pt.
-
-Overfull \vbox (8.57776pt too high) detected at line 390
+Overfull \hbox (36.25356pt too wide) in paragraph at lines 149--149
+ [] 
  []
 
-[29
 
- <./Figures/W_Fig_13pt13.png>]
-<Figures/W_Fig_13pt14.png, id=201, 417.2388pt x 342.078pt>
-File: Figures/W_Fig_13pt14.png Graphic file (type png)
-<use Figures/W_Fig_13pt14.png>
-Package pdftex.def Info: Figures/W_Fig_13pt14.png  used on input line 399.
-(pdftex.def)             Requested size: 271.202pt x 222.34805pt.
+Overfull \vbox (8.20114pt too high) detected at line 149
+ []
 
-./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.tex:399: Mi
-splaced alignment tab character &.
-\insertframetitle ...reat Recession Consumption\ &
-                                                   Investment\ifnum \beamer@...
-l.399 \end{frame}
-                 
-? 
-./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.tex:399: Em
-ergency stop.
-\insertframetitle ...reat Recession Consumption\ &
-                                                   Investment\ifnum \beamer@...
-l.399 \end{frame}
-                 
-End of file on the terminal!
+[10
 
- 
+ <./Figures/W_Fig_14pt3.png>]
+<Figures/W_Fig_14pt4.png, id=80, 554.07pt x 314.1336pt>
+File: Figures/W_Fig_14pt4.png Graphic file (type png)
+<use Figures/W_Fig_14pt4.png>
+Package pdftex.def Info: Figures/W_Fig_14pt4.png  used on input line 159.
+(pdftex.def)             Requested size: 360.14124pt x 204.18442pt.
+
+Overfull \hbox (52.85136pt too wide) in paragraph at lines 159--159
+ [] 
+ []
+
+
+Overfull \vbox (4.64047pt too high) detected at line 159
+ []
+
+[11
+
+ <./Figures/W_Fig_14pt4.png>] [12
+
+] [13
+
+]
+<Figures/W_Fig_14pt5.png, id=98, 226.446pt x 335.8146pt>
+File: Figures/W_Fig_14pt5.png Graphic file (type png)
+<use Figures/W_Fig_14pt5.png>
+Package pdftex.def Info: Figures/W_Fig_14pt5.png  used on input line 206.
+(pdftex.def)             Requested size: 147.18814pt x 218.2769pt.
+
+Overfull \vbox (19.34128pt too high) detected at line 206
+ []
+
+[14
+
+ <./Figures/W_Fig_14pt5.png>] [15
+
+] [16
+
+]
+<Figures/W_Fig_14pt6.png, id=115, 207.6558pt x 334.851pt>
+File: Figures/W_Fig_14pt6.png Graphic file (type png)
+<use Figures/W_Fig_14pt6.png>
+Package pdftex.def Info: Figures/W_Fig_14pt6.png  used on input line 238.
+(pdftex.def)             Requested size: 128.74525pt x 207.60547pt.
+
+Overfull \vbox (8.66985pt too high) detected at line 238
+ []
+
+[17
+
+ <./Figures/W_Fig_14pt6.png>] [18
+
+]
+<Figures/W_Fig_14pt7.png, id=128, 351.2322pt x 285.7074pt>
+File: Figures/W_Fig_14pt7.png Graphic file (type png)
+<use Figures/W_Fig_14pt7.png>
+Package pdftex.def Info: Figures/W_Fig_14pt7.png  used on input line 266.
+(pdftex.def)             Requested size: 228.29822pt x 185.7076pt.
+ [19
+
+ <./Figures/W_Fig_14pt7.png>]
+<Figures/FedFunds1.png, id=136, 1165.35374pt x 847.165pt>
+File: Figures/FedFunds1.png Graphic file (type png)
+<use Figures/FedFunds1.png>
+Package pdftex.def Info: Figures/FedFunds1.png  used on input line 275.
+(pdftex.def)             Requested size: 291.33772pt x 211.79073pt.
+ [20
+
+ <./Figures/FedFunds1.png>]
+<Figures/FedFunds2.png, id=143, 1165.35374pt x 847.165pt>
+File: Figures/FedFunds2.png Graphic file (type png)
+<use Figures/FedFunds2.png>
+Package pdftex.def Info: Figures/FedFunds2.png  used on input line 284.
+(pdftex.def)             Requested size: 291.33772pt x 211.79073pt.
+ [21
+
+ <./Figures/FedFunds2.png>]
+<Figures/FedFunds3.png, id=151, 1165.35374pt x 847.165pt>
+File: Figures/FedFunds3.png Graphic file (type png)
+<use Figures/FedFunds3.png>
+Package pdftex.def Info: Figures/FedFunds3.png  used on input line 293.
+(pdftex.def)             Requested size: 291.33772pt x 211.79073pt.
+ [22
+
+ <./Figures/FedFunds3.png>] [23
+
+]
+\tf@nav=\write6
+\openout6 = `"Chapter 14 - New Keynesian Economics - Sticky Prices.nav"'.
+
+\tf@toc=\write7
+\openout7 = `"Chapter 14 - New Keynesian Economics - Sticky Prices.toc"'.
+
+\tf@snm=\write8
+\openout8 = `"Chapter 14 - New Keynesian Economics - Sticky Prices.snm"'.
+
+ (./Chapter 14 - New Keynesian Economics - Sticky Prices.aux)
+Package rerunfilecheck Info: File `"Chapter 14 - New Keynesian Economics - Stic
+ky Prices".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 20 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 27845 strings out of 478268
- 578438 string characters out of 5846347
- 858728 words of memory out of 5000000
- 45430 multiletter control sequences out of 15000+600000
- 482110 words of font info for 74 fonts, out of 8000000 for 9000
+ 27785 strings out of 478268
+ 577018 string characters out of 5846347
+ 858451 words of memory out of 5000000
+ 45383 multiletter control sequences out of 15000+600000
+ 480460 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,492b,2091s stack positions out of 10000i,1000n,20000p,200000b,200000s
-./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.tex:399:  =
-=> Fatal error occurred, no output PDF file produced!
+ 128i,11n,122p,479b,2081s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msam10.pfb>
+Output written on "Chapter 14 - New Keynesian Economics - Sticky Prices.pdf" (2
+3 pages, 1416865 bytes).
+PDF statistics:
+ 217 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+
