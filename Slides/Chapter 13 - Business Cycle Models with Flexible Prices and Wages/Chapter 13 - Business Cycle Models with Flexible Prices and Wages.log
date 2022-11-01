@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 NOV 2022 06:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 NOV 2022 06:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,9 +870,7 @@ Package csquotes Info: ... none found.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
 \l__pdf_internal_box=\box101
-)
-No file "Chapter 13 - Business Cycle Models with Flexible Prices and Wages".aux
-.
+) (./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.aux)
 \openout1 = `"Chapter 13 - Business Cycle Models with Flexible Prices and Wages
 .aux"'.
 
@@ -894,6 +892,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -975,6 +974,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 23.
 LaTeX Info: Redefining \pageref on input line 23.
 LaTeX Info: Redefining \nameref on input line 23.
+ (./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.out)
+(./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.out)
 \@outlinefile=\write5
 \openout5 = `"Chapter 13 - Business Cycle Models with Flexible Prices and Wages
 .out"'.
@@ -1262,29 +1263,22 @@ Overfull \vbox (51.74692pt too high) detected at line 408
 
 
 (./Chapter 13 - Business Cycle Models with Flexible Prices and Wages.aux)
-
-Package rerunfilecheck Warning: File `"Chapter 13 - Business Cycle Models with 
-Flexible Prices and Wages".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Chapter 13 - Business Cycle Models
- with Flexible Prices and Wages".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `"Chapter 13 - Business Cycle Models with Fle
+xible Prices and Wages".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27854 strings out of 478268
- 578252 string characters out of 5846347
- 858436 words of memory out of 5000000
- 45434 multiletter control sequences out of 15000+600000
+ 27868 strings out of 478268
+ 578882 string characters out of 5846347
+ 858727 words of memory out of 5000000
+ 45442 multiletter control sequences out of 15000+600000
  482110 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,11n,122p,492b,2097s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,11n,122p,492b,2094s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
@@ -1298,7 +1292,7 @@ y10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb>
 Output written on "Chapter 13 - Business Cycle Models with Flexible Prices and 
-Wages.pdf" (32 pages, 2204818 bytes).
+Wages.pdf" (32 pages, 2204780 bytes).
 PDF statistics:
  285 PDF objects out of 1000 (max. 8388607)
  192 compressed objects within 2 object streams

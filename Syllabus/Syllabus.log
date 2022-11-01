@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  19 AUG 2022 12:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  1 NOV 2022 06:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,7 +811,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--152
  []
 
 
-Overfull \hbox (70.71825pt too wide) in paragraph at lines 156--195
+Overfull \hbox (43.0516pt too wide) in paragraph at lines 156--195
  [][] 
  []
 
@@ -824,7 +824,7 @@ Package rerunfilecheck Info: File `Syllabus.out' has not changed.
 Here is how much of TeX's memory you used:
  22102 strings out of 478268
  440912 string characters out of 5846347
- 740250 words of memory out of 5000000
+ 741249 words of memory out of 5000000
  39940 multiletter control sequences out of 15000+600000
  473690 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -838,7 +838,7 @@ r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Syllabus.pdf (4 pages, 113434 bytes).
+Output written on Syllabus.pdf (4 pages, 113429 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
