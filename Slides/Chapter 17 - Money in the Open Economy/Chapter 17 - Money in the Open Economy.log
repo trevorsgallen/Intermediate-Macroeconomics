@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  2 NOV 2022 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.13)  4 NOV 2022 13:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1260,13 +1260,67 @@ Overfull \hbox (94.38405pt too wide) in paragraph at lines 441--441
  [] 
  []
 
-
-Overfull \vbox (5.756pt too high) detected at line 441
- []
-
 [30
 
  <./Figures/W_Fig_17pt11.png>]
+File: Figures/W_Fig_17pt11.png Graphic file (type png)
+<use Figures/W_Fig_17pt11.png>
+Package pdftex.def Info: Figures/W_Fig_17pt11.png  used on input line 449.
+(pdftex.def)             Requested size: 401.67392pt x 203.02911pt.
+
+Overfull \hbox (94.38405pt too wide) in paragraph at lines 449--449
+ [] 
+ []
+
+[31
+
+] [32
+
+] [33
+
+] [34
+
+]
+<Figures/W_Fig_17pt13.png, id=224, 178.266pt x 345.9324pt>
+File: Figures/W_Fig_17pt13.png Graphic file (type png)
+<use Figures/W_Fig_17pt13.png>
+Package pdftex.def Info: Figures/W_Fig_17pt13.png  used on input line 500.
+(pdftex.def)             Requested size: 98.04659pt x 190.2634pt.
+ [35
+
+ <./Figures/W_Fig_17pt13.png>] [36
+
+]
+<Figures/W_Fig_17pt14.png, id=236, 202.356pt x 339.1872pt>
+File: Figures/W_Fig_17pt14.png Graphic file (type png)
+<use Figures/W_Fig_17pt14.png>
+Package pdftex.def Info: Figures/W_Fig_17pt14.png  used on input line 527.
+(pdftex.def)             Requested size: 111.29613pt x 186.55353pt.
+ [37
+
+ <./Figures/W_Fig_17pt14.png>] [38
+
+]
+<Figures/W_Fig_17pt15.png, id=249, 186.4566pt x 349.305pt>
+File: Figures/W_Fig_17pt15.png Graphic file (type png)
+<use Figures/W_Fig_17pt15.png>
+Package pdftex.def Info: Figures/W_Fig_17pt15.png  used on input line 549.
+(pdftex.def)             Requested size: 102.55144pt x 192.11833pt.
+ [39
+
+ <./Figures/W_Fig_17pt15.png>] [40
+
+]
+<Figures/W_Fig_17pt16.png, id=261, 187.4202pt x 330.033pt>
+File: Figures/W_Fig_17pt16.png Graphic file (type png)
+<use Figures/W_Fig_17pt16.png>
+Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 571.
+(pdftex.def)             Requested size: 103.08142pt x 181.51869pt.
+ [41
+
+ <./Figures/W_Fig_17pt16.png>] [42
+
+]
 \tf@nav=\write6
 \openout6 = `"Chapter 17 - Money in the Open Economy.nav"'.
 
@@ -1286,31 +1340,33 @@ Package rerunfilecheck Info: File `"Chapter 17 - Money in the Open Economy".out
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 27820 strings out of 478268
- 577097 string characters out of 5846347
+ 27898 strings out of 478268
+ 578307 string characters out of 5846347
  860197 words of memory out of 5000000
- 45403 multiletter control sequences out of 15000+600000
- 482048 words of font info for 74 fonts, out of 8000000 for 9000
+ 45452 multiletter control sequences out of 15000+600000
+ 482404 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,122p,465b,2089s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,122p,465b,2111s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/
-msam10.pfb>
-Output written on "Chapter 17 - Money in the Open Economy.pdf" (30 pages, 13235
-65 bytes).
+/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mssbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb>
+Output written on "Chapter 17 - Money in the Open Economy.pdf" (42 pages, 16688
+51 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 184 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
