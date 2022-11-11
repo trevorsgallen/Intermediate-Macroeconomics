@@ -370,10 +370,10 @@ $$s.t. c+\frac{c'}{1+r}=y+\frac{y'}{1+r}$$
 $$c^{-\sigma}=\lambda$$
 $$\beta(c')^{-\sigma}=\frac{\lambda}{1+r}$$
 \item Or, combining the two:
-$$\left(\frac{c}{c'}\right)^{\sigma}=\beta(1+r)$$
+$$\left(\frac{c}{c'}\right)^{-\sigma}=\beta(1+r)$$
 \item Taking logs:
-$$\log(c)-\log(c')=-\frac{1}{\sigma}\left(\log(\beta)+\log(1+r)\right)$$
-\item Which looks like what Williamson wrote down:
+$$\log(c)-\log(c')=-\frac{1}{\sigma}\left(r+\log(\beta)\right)$$
+\item Which looks like what Williamson wrote down ($log(\beta)\approx -r^*$ in models):
 $$Y-Y'=-\frac{1}{d}(R-i'-r^*)$$
 \end{itemize}
 \end{frame}
@@ -399,7 +399,6 @@ $$Y-Y'=-\frac{1}{d}(R-i'-r^*)$$
 \begin{itemize}
 \item We simplify the Phillips curve to say that inflation is positively related to the output gap (we ignore future inflation, because it won't actually qualitatively affect our results, but makes math harder)
 $$i=a(Y-Y_m)$$
-\bigskip
 \item If $Y_m$ isn't changing, and $r^*$ is also exogenous, we have:
 $$i'=a(Y'-Y_m)$$
 \item Subsituting in for $Y$ and $Y'$, we get:
@@ -408,7 +407,6 @@ $$i'=\frac{a(R-r^*)}{a+d}+\frac{di}{a+d}$$
 \bigskip
 \item I think a better equation is:
 $$\Delta i =-\frac{a}{d}\left(r-r^*\right)$$
-\bigskip
 \item But both say that $R$ is constant, then inflation will converge to some level
 \end{itemize}
 \end{frame}

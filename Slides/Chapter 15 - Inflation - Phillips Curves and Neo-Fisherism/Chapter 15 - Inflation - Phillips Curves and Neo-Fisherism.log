@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  27 OCT 2022 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  10 NOV 2022 07:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1270,22 +1270,18 @@ Overfull \vbox (4.26445pt too high) detected at line 282
 
 ] [28
 
-]
-Overfull \vbox (12.96486pt too high) detected at line 414
- []
-
-[29
+] [29
 
 ]
 <Figures/W_Fig_15pt8.png, id=204, 351.2322pt x 326.1786pt>
 File: Figures/W_Fig_15pt8.png Graphic file (type png)
 <use Figures/W_Fig_15pt8.png>
-Package pdftex.def Info: Figures/W_Fig_15pt8.png  used on input line 423.
+Package pdftex.def Info: Figures/W_Fig_15pt8.png  used on input line 421.
 (pdftex.def)             Requested size: 175.61566pt x 163.0889pt.
  [30
 
  <./Figures/W_Fig_15pt8.png>]
-Overfull \vbox (11.68138pt too high) detected at line 443
+Overfull \vbox (11.68138pt too high) detected at line 441
  []
 
 [31
@@ -1298,7 +1294,7 @@ Overfull \vbox (11.68138pt too high) detected at line 443
 <Figures/W_Fig_15pt11.png, id=228, 350.2686pt x 350.2686pt>
 File: Figures/W_Fig_15pt11.png Graphic file (type png)
 <use Figures/W_Fig_15pt11.png>
-Package pdftex.def Info: Figures/W_Fig_15pt11.png  used on input line 481.
+Package pdftex.def Info: Figures/W_Fig_15pt11.png  used on input line 479.
 (pdftex.def)             Requested size: 175.13387pt x 175.13387pt.
  [34
 
@@ -1308,7 +1304,7 @@ Package pdftex.def Info: Figures/W_Fig_15pt11.png  used on input line 481.
 <Figures/W_Fig_15pt12.png, id=240, 341.1144pt x 345.9324pt>
 File: Figures/W_Fig_15pt12.png Graphic file (type png)
 <use Figures/W_Fig_15pt12.png>
-Package pdftex.def Info: Figures/W_Fig_15pt12.png  used on input line 499.
+Package pdftex.def Info: Figures/W_Fig_15pt12.png  used on input line 497.
 (pdftex.def)             Requested size: 170.55676pt x 172.96577pt.
  [36
 
@@ -1320,7 +1316,7 @@ Package pdftex.def Info: Figures/W_Fig_15pt12.png  used on input line 499.
 <Figures/W_Fig_15pt13.png, id=258, 337.26pt x 358.941pt>
 File: Figures/W_Fig_15pt13.png Graphic file (type png)
 <use Figures/W_Fig_15pt13.png>
-Package pdftex.def Info: Figures/W_Fig_15pt13.png  used on input line 538.
+Package pdftex.def Info: Figures/W_Fig_15pt13.png  used on input line 536.
 (pdftex.def)             Requested size: 168.62958pt x 179.47005pt.
  [39
 
@@ -1332,15 +1328,15 @@ Package pdftex.def Info: Figures/W_Fig_15pt13.png  used on input line 538.
 <Figures/VolckerShock.png, id=275, 889.3225pt x 646.415pt>
 File: Figures/VolckerShock.png Graphic file (type png)
 <use Figures/VolckerShock.png>
-Package pdftex.def Info: Figures/VolckerShock.png  used on input line 578.
+Package pdftex.def Info: Figures/VolckerShock.png  used on input line 576.
 (pdftex.def)             Requested size: 311.26753pt x 226.24864pt.
 
-Overfull \hbox (3.97766pt too wide) in paragraph at lines 578--578
+Overfull \hbox (3.97766pt too wide) in paragraph at lines 576--576
  [] 
  []
 
 
-Overfull \vbox (10.97552pt too high) detected at line 578
+Overfull \vbox (10.97552pt too high) detected at line 576
  []
 
 [42
@@ -1349,10 +1345,10 @@ Overfull \vbox (10.97552pt too high) detected at line 578
 <Figures/NeoFisher.png, id=282, 889.3225pt x 646.415pt>
 File: Figures/NeoFisher.png Graphic file (type png)
 <use Figures/NeoFisher.png>
-Package pdftex.def Info: Figures/NeoFisher.png  used on input line 586.
+Package pdftex.def Info: Figures/NeoFisher.png  used on input line 584.
 (pdftex.def)             Requested size: 293.47733pt x 213.31761pt.
 
-Overfull \vbox (2.44449pt too high) detected at line 586
+Overfull \vbox (2.44449pt too high) detected at line 584
  []
 
 [43
@@ -1382,7 +1378,7 @@ d Neo-Fisherism".out' has not changed.
 Here is how much of TeX's memory you used:
  26764 strings out of 478994
  534488 string characters out of 5858183
- 854222 words of memory out of 5000000
+ 854221 words of memory out of 5000000
  43578 multiletter control sequences out of 15000+600000
  418885 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1409,7 +1405,7 @@ b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
 Output written on "Chapter 15 - Inflation - Phillips Curves and Neo-Fisherism.p
-df" (44 pages, 1732932 bytes).
+df" (44 pages, 1733287 bytes).
 PDF statistics:
  383 PDF objects out of 1000 (max. 8388607)
  278 compressed objects within 3 object streams
