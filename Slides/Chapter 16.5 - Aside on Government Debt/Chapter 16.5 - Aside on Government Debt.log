@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  15 NOV 2022 06:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  15 NOV 2022 07:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1107,20 +1107,20 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <14.4> not available
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 40.
+ut line 42.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1135,10 +1135,10 @@ thkerncmss.
 <Debt0.png, id=44, 528.5346pt x 338.2236pt>
 File: Debt0.png Graphic file (type png)
 <use Debt0.png>
-Package pdftex.def Info: Debt0.png  used on input line 84.
+Package pdftex.def Info: Debt0.png  used on input line 86.
 (pdftex.def)             Requested size: 317.12321pt x 202.93573pt.
 
-Overfull \hbox (9.83334pt too wide) in paragraph at lines 84--84
+Overfull \hbox (9.83334pt too wide) in paragraph at lines 86--86
  [] 
  []
 
@@ -1148,10 +1148,10 @@ Overfull \hbox (9.83334pt too wide) in paragraph at lines 84--84
 <Debt1.png, id=52, 527.571pt x 338.2236pt>
 File: Debt1.png Graphic file (type png)
 <use Debt1.png>
-Package pdftex.def Info: Debt1.png  used on input line 92.
+Package pdftex.def Info: Debt1.png  used on input line 94.
 (pdftex.def)             Requested size: 316.54504pt x 202.93573pt.
 
-Overfull \hbox (9.25517pt too wide) in paragraph at lines 92--92
+Overfull \hbox (9.25517pt too wide) in paragraph at lines 94--94
  [] 
  []
 
@@ -1161,10 +1161,10 @@ Overfull \hbox (9.25517pt too wide) in paragraph at lines 92--92
 <Debt2.png, id=59, 528.5346pt x 338.2236pt>
 File: Debt2.png Graphic file (type png)
 <use Debt2.png>
-Package pdftex.def Info: Debt2.png  used on input line 100.
+Package pdftex.def Info: Debt2.png  used on input line 102.
 (pdftex.def)             Requested size: 317.12321pt x 202.93573pt.
 
-Overfull \hbox (9.83334pt too wide) in paragraph at lines 100--100
+Overfull \hbox (9.83334pt too wide) in paragraph at lines 102--102
  [] 
  []
 
@@ -1188,10 +1188,10 @@ Overfull \hbox (9.83334pt too wide) in paragraph at lines 100--100
 <Blanchard1.png, id=106, 644.4075pt x 767.86874pt>
 File: Blanchard1.png Graphic file (type png)
 <use Blanchard1.png>
-Package pdftex.def Info: Blanchard1.png  used on input line 154.
+Package pdftex.def Info: Blanchard1.png  used on input line 156.
 (pdftex.def)             Requested size: 193.32373pt x 230.3624pt.
 
-Overfull \vbox (1.48927pt too high) detected at line 154
+Overfull \vbox (1.48927pt too high) detected at line 156
  []
 
 [15
@@ -1202,10 +1202,10 @@ Overfull \vbox (1.48927pt too high) detected at line 154
 <Blanchard2.png, id=118, 670.505pt x 360.34625pt>
 File: Blanchard2.png Graphic file (type png)
 <use Blanchard2.png>
-Package pdftex.def Info: Blanchard2.png  used on input line 173.
+Package pdftex.def Info: Blanchard2.png  used on input line 175.
 (pdftex.def)             Requested size: 335.25168pt x 180.17268pt.
 
-Overfull \hbox (27.9618pt too wide) in paragraph at lines 173--173
+Overfull \hbox (27.9618pt too wide) in paragraph at lines 175--175
  [] 
  []
 
@@ -1221,10 +1221,10 @@ Overfull \hbox (27.9618pt too wide) in paragraph at lines 173--173
 <RR1.png, id=142, 822.07124pt x 483.8075pt>
 File: RR1.png Graphic file (type png)
 <use RR1.png>
-Package pdftex.def Info: RR1.png  used on input line 240.
+Package pdftex.def Info: RR1.png  used on input line 242.
 (pdftex.def)             Requested size: 328.82266pt x 193.51956pt.
 
-Overfull \hbox (21.53279pt too wide) in paragraph at lines 240--240
+Overfull \hbox (21.53279pt too wide) in paragraph at lines 242--242
  [] 
  []
 
@@ -1234,7 +1234,7 @@ Overfull \hbox (21.53279pt too wide) in paragraph at lines 240--240
 <RR2.png, id=149, 540.0175pt x 330.23375pt>
 File: RR2.png Graphic file (type png)
 <use RR2.png>
-Package pdftex.def Info: RR2.png  used on input line 248.
+Package pdftex.def Info: RR2.png  used on input line 250.
 (pdftex.def)             Requested size: 270.00809pt x 165.11646pt.
  [22
 
@@ -1244,10 +1244,10 @@ Package pdftex.def Info: RR2.png  used on input line 248.
 <RR3.png, id=161, 782.925pt x 428.60126pt>
 File: RR3.png Graphic file (type png)
 <use RR3.png>
-Package pdftex.def Info: RR3.png  used on input line 280.
+Package pdftex.def Info: RR3.png  used on input line 282.
 (pdftex.def)             Requested size: 313.16446pt x 171.43745pt.
 
-Overfull \hbox (5.87459pt too wide) in paragraph at lines 280--280
+Overfull \hbox (5.87459pt too wide) in paragraph at lines 282--282
  [] 
  []
 
@@ -1257,7 +1257,7 @@ Overfull \hbox (5.87459pt too wide) in paragraph at lines 280--280
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-312.
+314.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -1267,15 +1267,15 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 <Liberdad.png, id=181, 1118.1775pt x 784.9325pt>
 File: Liberdad.png Graphic file (type png)
 <use Liberdad.png>
-Package pdftex.def Info: Liberdad.png  used on input line 320.
+Package pdftex.def Info: Liberdad.png  used on input line 322.
 (pdftex.def)             Requested size: 335.45584pt x 235.48155pt.
 
-Overfull \hbox (28.16597pt too wide) in paragraph at lines 320--320
+Overfull \hbox (28.16597pt too wide) in paragraph at lines 322--322
  [] 
  []
 
 
-Overfull \vbox (20.20844pt too high) detected at line 320
+Overfull \vbox (20.20844pt too high) detected at line 322
  []
 
 [27
@@ -1292,7 +1292,7 @@ Overfull \vbox (20.20844pt too high) detected at line 320
 <CrucesTrebesch.png, id=209, 602.25pt x 454.69875pt>
 File: CrucesTrebesch.png Graphic file (type png)
 <use CrucesTrebesch.png>
-Package pdftex.def Info: CrucesTrebesch.png  used on input line 382.
+Package pdftex.def Info: CrucesTrebesch.png  used on input line 384.
 (pdftex.def)             Requested size: 301.12425pt x 227.34882pt.
  [32
 
@@ -1300,7 +1300,7 @@ Package pdftex.def Info: CrucesTrebesch.png  used on input line 382.
 <CrucesTrebesch2.png, id=216, 602.25pt x 420.57124pt>
 File: CrucesTrebesch2.png Graphic file (type png)
 <use CrucesTrebesch2.png>
-Package pdftex.def Info: CrucesTrebesch2.png  used on input line 390.
+Package pdftex.def Info: CrucesTrebesch2.png  used on input line 392.
 (pdftex.def)             Requested size: 301.12425pt x 210.28511pt.
  [33
 
@@ -1310,10 +1310,10 @@ Package pdftex.def Info: CrucesTrebesch2.png  used on input line 390.
 <AndradeChhaochharia1.png, id=228, 558.085pt x 300.12125pt>
 File: AndradeChhaochharia1.png Graphic file (type png)
 <use AndradeChhaochharia1.png>
-Package pdftex.def Info: AndradeChhaochharia1.png  used on input line 417.
+Package pdftex.def Info: AndradeChhaochharia1.png  used on input line 419.
 (pdftex.def)             Requested size: 334.85359pt x 180.07413pt.
 
-Overfull \hbox (27.56372pt too wide) in paragraph at lines 417--417
+Overfull \hbox (27.56372pt too wide) in paragraph at lines 419--419
  [] 
  []
 
@@ -1325,10 +1325,10 @@ Overfull \hbox (27.56372pt too wide) in paragraph at lines 417--417
 <Kuvshinov_1.png, id=240, 665.48625pt x 174.6525pt>
 File: Kuvshinov_1.png Graphic file (type png)
 <use Kuvshinov_1.png>
-Package pdftex.def Info: Kuvshinov_1.png  used on input line 435.
+Package pdftex.def Info: Kuvshinov_1.png  used on input line 437.
 (pdftex.def)             Requested size: 399.29483pt x 104.7923pt.
 
-Overfull \hbox (92.00496pt too wide) in paragraph at lines 435--435
+Overfull \hbox (92.00496pt too wide) in paragraph at lines 437--437
  [] 
  []
 
@@ -1338,10 +1338,10 @@ Overfull \hbox (92.00496pt too wide) in paragraph at lines 435--435
 <Kuvshinov_2.png, id=248, 670.505pt x 356.33125pt>
 File: Kuvshinov_2.png Graphic file (type png)
 <use Kuvshinov_2.png>
-Package pdftex.def Info: Kuvshinov_2.png  used on input line 444.
+Package pdftex.def Info: Kuvshinov_2.png  used on input line 446.
 (pdftex.def)             Requested size: 335.25168pt x 178.16518pt.
 
-Overfull \hbox (27.9618pt too wide) in paragraph at lines 444--444
+Overfull \hbox (27.9618pt too wide) in paragraph at lines 446--446
  [] 
  []
 
@@ -1351,10 +1351,10 @@ Overfull \hbox (27.9618pt too wide) in paragraph at lines 444--444
 <Kuvshinov_3.png, id=255, 667.49374pt x 325.215pt>
 File: Kuvshinov_3.png Graphic file (type png)
 <use Kuvshinov_3.png>
-Package pdftex.def Info: Kuvshinov_3.png  used on input line 453.
+Package pdftex.def Info: Kuvshinov_3.png  used on input line 455.
 (pdftex.def)             Requested size: 333.74606pt x 162.6071pt.
 
-Overfull \hbox (26.45619pt too wide) in paragraph at lines 453--453
+Overfull \hbox (26.45619pt too wide) in paragraph at lines 455--455
  [] 
  []
 
@@ -1364,10 +1364,10 @@ Overfull \hbox (26.45619pt too wide) in paragraph at lines 453--453
 <Kuvshinov_4.png, id=262, 650.43pt x 240.9pt>
 File: Kuvshinov_4.png Graphic file (type png)
 <use Kuvshinov_4.png>
-Package pdftex.def Info: Kuvshinov_4.png  used on input line 463.
+Package pdftex.def Info: Kuvshinov_4.png  used on input line 465.
 (pdftex.def)             Requested size: 325.2142pt x 120.44969pt.
 
-Overfull \hbox (17.92433pt too wide) in paragraph at lines 463--463
+Overfull \hbox (17.92433pt too wide) in paragraph at lines 465--465
  [] 
  []
 
@@ -1377,7 +1377,7 @@ Overfull \hbox (17.92433pt too wide) in paragraph at lines 463--463
 <Kuvshinov_5.png, id=269, 338.26375pt x 274.02374pt>
 File: Kuvshinov_5.png Graphic file (type png)
 <use Kuvshinov_5.png>
-Package pdftex.def Info: Kuvshinov_5.png  used on input line 472.
+Package pdftex.def Info: Kuvshinov_5.png  used on input line 474.
 (pdftex.def)             Requested size: 236.78299pt x 191.8153pt.
  [41
 
@@ -1385,7 +1385,7 @@ Package pdftex.def Info: Kuvshinov_5.png  used on input line 472.
 <Kuvshinov_6.png, id=276, 321.2pt x 245.91875pt>
 File: Kuvshinov_6.png Graphic file (type png)
 <use Kuvshinov_6.png>
-Package pdftex.def Info: Kuvshinov_6.png  used on input line 482.
+Package pdftex.def Info: Kuvshinov_6.png  used on input line 484.
 (pdftex.def)             Requested size: 224.83847pt x 172.14194pt.
  [42
 
@@ -1393,7 +1393,7 @@ Package pdftex.def Info: Kuvshinov_6.png  used on input line 482.
 <Cruces1.png, id=283, 248.6088pt x 162.8484pt>
 File: Cruces1.png Graphic file (type png)
 <use Cruces1.png>
-Package pdftex.def Info: Cruces1.png  used on input line 490.
+Package pdftex.def Info: Cruces1.png  used on input line 492.
 (pdftex.def)             Requested size: 248.60817pt x 162.848pt.
 
 [43
@@ -1402,7 +1402,7 @@ Package pdftex.def Info: Cruces1.png  used on input line 490.
 <Cruces2.png, id=291, 248.6088pt x 162.8484pt>
 File: Cruces2.png Graphic file (type png)
 <use Cruces2.png>
-Package pdftex.def Info: Cruces2.png  used on input line 498.
+Package pdftex.def Info: Cruces2.png  used on input line 500.
 (pdftex.def)             Requested size: 248.60817pt x 162.848pt.
  [44
 
@@ -1452,8 +1452,8 @@ b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1095.pf
 b>
-Output written on "Chapter 16.5 - Aside on Government Debt.pdf" (45 pages, 1929
-609 bytes).
+Output written on "Chapter 16.5 - Aside on Government Debt.pdf" (45 pages, 1930
+753 bytes).
 PDF statistics:
  374 PDF objects out of 1000 (max. 8388607)
  264 compressed objects within 3 object streams
