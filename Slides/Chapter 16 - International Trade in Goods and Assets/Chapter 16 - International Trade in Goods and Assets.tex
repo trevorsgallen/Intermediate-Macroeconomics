@@ -3,6 +3,8 @@
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows}
 \usepackage{tikz}
+\usetheme{tg}
+
 %\usecolortheme{seahorse}
   \setbeamertemplate{footline}[page number]
 \usepackage{multirow}
@@ -318,8 +320,11 @@ Greek debt rose by $\approx$ 50\% of GDP!
 \bigskip
 \item Getting back to GDP:
 $$Y=C+I+G+NX$$
-\item World real interest rate is $r^*$, $Y^d$ shifts until it intersects $Y^s$ at $r^*$
-\bigskip
+\item World real interest rate is $r^*$, $Y^d$ shifts until it intersects $Y^s$ at $r^*$ \tikz[tstyle]{\node[nstyle](node1){$x$}}
+			\begin{tikzpicture}[tpstyle]
+				\draw[arrow,->] ([yshift=2pt]node1.north east) to[bend left] +(0.7,+0.3) node[anchor=west] {\hand A comment from the north};
+				\draw[arrow,->] ([yshift=-2pt]node1.south) to[bend right] +(1.6,-0.2) node[anchor=west] {\hand A comment from the south};
+			\end{tikzpicture}	
 \item So if the $r$ that would cause $Y^d=Y^s$ if no trade is too low, you export
 \bigskip
 \item Let's take a look!
