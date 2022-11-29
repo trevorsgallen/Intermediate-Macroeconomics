@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  29 NOV 2022 07:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  29 NOV 2022 07:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1314,57 +1314,65 @@ Package pdftex.def Info: Figures/W_Fig_17pt11.png  used on input line 441.
  [30
 
  <./Figures/W_Fig_17pt11.png>]
-File: Figures/W_Fig_17pt11.png Graphic file (type png)
-<use Figures/W_Fig_17pt11.png>
-Package pdftex.def Info: Figures/W_Fig_17pt11.png  used on input line 449.
-(pdftex.def)             Requested size: 286.9112pt x 145.02144pt.
+<Figures/W_Fig_17pt12.png, id=200, 290.0436pt x 314.1336pt>
+File: Figures/W_Fig_17pt12.png Graphic file (type png)
+<use Figures/W_Fig_17pt12.png>
+Package pdftex.def Info: Figures/W_Fig_17pt12.png  used on input line 450.
+(pdftex.def)             Requested size: 145.02144pt x 157.0664pt.
  [31
 
-] [32
+ <./Figures/W_Fig_17pt12.png>]
+[32
 
 ] [33
 
 ] [34
 
 ]
-<Figures/W_Fig_17pt13.png, id=224, 178.266pt x 345.9324pt>
+<Figures/W_Fig_17pt13.png, id=226, 178.266pt x 345.9324pt>
 File: Figures/W_Fig_17pt13.png Graphic file (type png)
 <use Figures/W_Fig_17pt13.png>
-Package pdftex.def Info: Figures/W_Fig_17pt13.png  used on input line 500.
+Package pdftex.def Info: Figures/W_Fig_17pt13.png  used on input line 501.
 (pdftex.def)             Requested size: 98.04659pt x 190.2634pt.
- [35
+
+Overfull \vbox (9.32777pt too high) detected at line 501
+ []
+
+[35
 
  <./Figures/W_Fig_17pt13.png>] [36
 
 ]
-<Figures/W_Fig_17pt14.png, id=236, 202.356pt x 339.1872pt>
+<Figures/W_Fig_17pt14.png, id=238, 202.356pt x 339.1872pt>
 File: Figures/W_Fig_17pt14.png Graphic file (type png)
 <use Figures/W_Fig_17pt14.png>
-Package pdftex.def Info: Figures/W_Fig_17pt14.png  used on input line 527.
+Package pdftex.def Info: Figures/W_Fig_17pt14.png  used on input line 528.
 (pdftex.def)             Requested size: 111.29613pt x 186.55353pt.
  [37
 
- <./Figures/W_Fig_17pt14.png>] [38
+ <./Figures/W_Fig_17pt14.png>]
+[38
 
 ]
-<Figures/W_Fig_17pt15.png, id=249, 186.4566pt x 349.305pt>
+<Figures/W_Fig_17pt15.png, id=251, 186.4566pt x 349.305pt>
 File: Figures/W_Fig_17pt15.png Graphic file (type png)
 <use Figures/W_Fig_17pt15.png>
-Package pdftex.def Info: Figures/W_Fig_17pt15.png  used on input line 549.
+Package pdftex.def Info: Figures/W_Fig_17pt15.png  used on input line 552.
 (pdftex.def)             Requested size: 102.55144pt x 192.11833pt.
  [39
 
  <./Figures/W_Fig_17pt15.png>] [40
 
 ]
-<Figures/W_Fig_17pt16.png, id=261, 187.4202pt x 330.033pt>
+<Figures/W_Fig_17pt16.png, id=263, 187.4202pt x 330.033pt>
 File: Figures/W_Fig_17pt16.png Graphic file (type png)
 <use Figures/W_Fig_17pt16.png>
-Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 571.
+Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 578.
 (pdftex.def)             Requested size: 103.08142pt x 181.51869pt.
  [41
 
- <./Figures/W_Fig_17pt16.png>] [42
+ <./Figures/W_Fig_17pt16.png>]
+[42
 
 ]
 \tf@nav=\write6
@@ -1376,8 +1384,7 @@ Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 571.
 \tf@snm=\write8
 \openout8 = `"Chapter 17 - Money in the Open Economy.snm"'.
 
-
-(./Chapter 17 - Money in the Open Economy.aux)
+ (./Chapter 17 - Money in the Open Economy.aux)
 Package rerunfilecheck Info: File `"Chapter 17 - Money in the Open Economy".out
 ' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1387,10 +1394,10 @@ Package rerunfilecheck Info: File `"Chapter 17 - Money in the Open Economy".out
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 26703 strings out of 478994
- 532917 string characters out of 5858183
+ 26709 strings out of 478994
+ 533072 string characters out of 5858183
  853183 words of memory out of 5000000
- 43529 multiletter control sequences out of 15000+600000
+ 43534 multiletter control sequences out of 15000+600000
  416575 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,465b,2026s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1409,11 +1416,11 @@ sy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb>
-Output written on "Chapter 17 - Money in the Open Economy.pdf" (42 pages, 16558
-36 bytes).
+Output written on "Chapter 17 - Money in the Open Economy.pdf" (42 pages, 17835
+05 bytes).
 PDF statistics:
- 342 PDF objects out of 1000 (max. 8388607)
+ 344 PDF objects out of 1000 (max. 8388607)
  249 compressed objects within 3 object streams
  85 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
