@@ -344,7 +344,7 @@ Foreign Exchange Reserves & Outside Money \\
 \bigskip
 \item We again have an increase in domestic output, decrease in investment, ambiguous affect on consumption, and increase in CA
 \bigskip
-\item But recall that $eP^*L(Y_1,r_1^*)$ increases to $e(P')^*L(Y_2r_2^*)$
+\item But recall that $eP^*L(Y_1,r_1^*)$ increases to $e(P')^*L(Y_2,r_2^*)$
 \bigskip
 \item It must be that $M$ increases to offset increased domestic demand for currency
 \end{itemize}
@@ -596,6 +596,79 @@ As $G$ shifts out, $e$ shifts down (more demand for dollars), $NX\left(\frac{eP^
 \end{itemize}
 \end{frame}
 
+\begin{frame}
+\frametitle[alignment=center]{Uncovered Interest Parity}
+\begin{itemize}
+\item Recall purchasing power parity came from a law of one price
+\bigskip
+\item But I should be able to get same return in dollars investing in dollars today vs foreign currency
+\bigskip
+\item Return if invest in dollars:  $1+R$ (domestic currency tomorrow/domestic currency today)
+\item Return if invest in Euro: $\frac{e'}{e}(1+R^*)=\frac{\frac{\text{domestic currency tomorrow}}{\text{foreign currency tomorrow}}}{\frac{\text{domestic currency today}}{\text{foreign currency today}}}\frac{\text{foreign currency tomorrow}}{\text{foreign currency today}}=\frac{\text{domestic currency tomorrow}}{\text{domestic currency today}}$
+\item Therefore:
+$$\frac{e'}{e}=\frac{1+R}{1+R^*}$$
+\item The (proportional) change in exchange rate should be equal to difference in nominal interest rate
+\item ``Uncovered interest parity" 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle[alignment=center]{Uncovered Interest Parity}
+\begin{itemize}
+\item Let's say that we expect $e'=e$ (no change in exchange rates) but that $1+R>1+R^*$.  What do?
+$$\frac{e'}{e}<\frac{1+R}{1+R^*}$$
+\begin{enumerate}
+\item Borrow 1 unit of foreign currency, accrue debt of $1+R^*$ in foreign currency to pay off tomorrow
+\item Take 1 unit, change to dollars, now have $e$ domestic currency. 
+\item  Invest to get $(1+R)e$ units of domestic currency tomorrow
+\item Now take $(1+R)e$ units of domestic currency tomorrow, and exchange for $\frac{1}{e'}\cdot\frac{1+R}{e}$ units of foreign currency tomorrow
+\end{enumerate}
+\item Question: are your assets ($\frac{e}{e'}\cdot(1+R)$) more than your liabilities ($1+R^*$)?
+\item Yes!  By assumption, $\frac{e'}{e}\frac{1}{1+R}<\frac{1}{1+R^*}$, or:
+$$\frac{e}{e'}\cdot(1+R)>1+R^*$$
+\item You've minted free money
+\item This happens in reality(!?!?)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle[alignment=center]{Uncovered Interest Parity}
+\begin{itemize}
+\item Could rewrite:
+$$\frac{e'}{e}<\frac{1+R}{1+R^*}$$
+\item To be:
+$$\Delta\% e=\Delta\% R$$
+\item Percent change in exchange rate should equal percent difference in nominal interest rates
+\bigskip
+\item Otherwise free money
+\bigskip
+\item Let's graph out
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle[alignment=center]{Uncovered Interest Parity}
+\begin{figure}
+\includegraphics[scale=0.3]{Figures/UncoveredInterestParity.png}
+\end{figure}
+Two lines \emph{should} be roughly equal.
+\end{frame}
+
+
+\begin{frame}
+\frametitle[alignment=center]{Failures of Uncovered Interest Parity }
+\begin{itemize}
+\item Very weird.  When blue line greater than red line, US dollar depreciated but interest rates comparable, so could have made money borrowing in USD
+\bigskip
+\item Active area of research!
+\bigskip
+\item Frictions?  Don't know $e'$?
+\bigskip
+\item But people do make big money.
+\bigskip
+\item Also ``covered" interest parity:  could lock in $e'$ with futures.  Still a puzzle.
+\end{itemize}
+\end{frame}
 
 
 \end{document}

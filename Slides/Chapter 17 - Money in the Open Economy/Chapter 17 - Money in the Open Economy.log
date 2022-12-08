@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  29 NOV 2022 07:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.28)  29 NOV 2022 10:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1374,6 +1374,27 @@ Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 578.
  <./Figures/W_Fig_17pt16.png>]
 [42
 
+] [43
+
+]
+Overfull \vbox (3.20186pt too high) detected at line 632
+ []
+
+[44
+
+] [45
+
+]
+<Figures/UncoveredInterestParity.png, id=292, 959.585pt x 406.51875pt>
+File: Figures/UncoveredInterestParity.png Graphic file (type png)
+<use Figures/UncoveredInterestParity.png>
+Package pdftex.def Info: Figures/UncoveredInterestParity.png  used on input lin
+e 655.
+(pdftex.def)             Requested size: 287.87772pt x 121.95656pt.
+ [46
+
+ <./Figures/UncoveredInterestParity.png>] [47
+
 ]
 \tf@nav=\write6
 \openout6 = `"Chapter 17 - Money in the Open Economy.nav"'.
@@ -1384,7 +1405,8 @@ Package pdftex.def Info: Figures/W_Fig_17pt16.png  used on input line 578.
 \tf@snm=\write8
 \openout8 = `"Chapter 17 - Money in the Open Economy.snm"'.
 
- (./Chapter 17 - Money in the Open Economy.aux)
+
+(./Chapter 17 - Money in the Open Economy.aux)
 Package rerunfilecheck Info: File `"Chapter 17 - Money in the Open Economy".out
 ' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1394,13 +1416,13 @@ Package rerunfilecheck Info: File `"Chapter 17 - Money in the Open Economy".out
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 26709 strings out of 478994
- 533072 string characters out of 5858183
- 853183 words of memory out of 5000000
- 43534 multiletter control sequences out of 15000+600000
+ 26744 strings out of 478994
+ 533750 string characters out of 5858183
+ 855184 words of memory out of 5000000
+ 43558 multiletter control sequences out of 15000+600000
  416575 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,14n,132p,465b,2026s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,14n,132p,465b,2036s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
@@ -1412,15 +1434,16 @@ cmssi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmssi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmssi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
-m10.pfb>
-Output written on "Chapter 17 - Money in the Open Economy.pdf" (42 pages, 17835
-05 bytes).
+sy5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam1
+0.pfb>
+Output written on "Chapter 17 - Money in the Open Economy.pdf" (47 pages, 19622
+39 bytes).
 PDF statistics:
- 344 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
- 85 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
